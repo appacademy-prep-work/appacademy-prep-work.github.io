@@ -43,8 +43,3 @@ string will all the vowels removed. Treat "y" as a consonant.
     disemvowel("foobar") == "fbr"
     disemvowel("ruby") == "rby"
     disemvowel("aeiou") == ""
-
-## You're done!
-
-Congrats on finishing the practice coding exercise! When you're ready, feel free
-to start the real thing.

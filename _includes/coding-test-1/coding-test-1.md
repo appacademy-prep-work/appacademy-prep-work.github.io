@@ -60,16 +60,21 @@ know how to program**:
 the three parts of Introduction to Programming:
 
 * **[Practice Problems][practice-problems]**
-* **[Practice Coding Exercise][practice-coding-exercise]**
 
 [practice-problems]: ./practice-problems
-[practice-coding-exercise]: ./practice-coding-exercise
 
 Doing the practice problems will build your familiarity with Ruby, and
 give you a good idea what the level of difficulty is on the coding
-challenge. It is not required, but **we strongly suggest that you
+challenge. It is not required, but we strongly suggest that you
 complete all the practice problems before taking the coding
-challenge**. We want you to be well prepared.
+challenge. We want you to be well prepared.
+
+**Third, try out the practice coding exercise!** This exercise is designed to
+be similar to the actual coding challenge:
+
+* **[Practice Coding Exercise][practice-coding-exercise]**
+
+[practice-coding-exercise]: ./practice-coding-exercise
 
 ## What programming language do I write in?
 
