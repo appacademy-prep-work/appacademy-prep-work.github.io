@@ -60,8 +60,10 @@ know how to program**:
 the three parts of Introduction to Programming:
 
 * **[Practice Problems][practice-problems]**
+* **[Practice Coding Exercise][practice-coding-exercise]**
 
 [practice-problems]: ./practice-problems
+[practice-coding-exercise]: ./practice-coding-exercise
 
 Doing the practice problems will build your familiarity with Ruby, and
 give you a good idea what the level of difficulty is on the coding
