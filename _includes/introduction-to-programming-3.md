@@ -256,7 +256,7 @@ name. Methods can take input; in this case our `print_three_times`
 method should take as input a name to print three times.
 
 Between the `def` line and the `end` is the **body** of the
-method. The body **is not yet** run when the method is defined. The
+method. The body is not yet run when the method is defined. The
 body describes what to do when someone **calls** the
 `print_three_times` method.
 

@@ -18,13 +18,13 @@ Read all of this document. But here's the executive summary:
 ## What is the coding challenge?
 
 We will ask you to solve a short coding challenge composed of
-**four or five coding problems that measure basic programming
-knowledge**. The challenge is timed: **you will have up to 45 minutes
-to complete the challenge**.
+four or five coding problems that measure basic programming
+knowledge. The challenge is timed: you will have up to **45 minutes**
+to complete the challenge.
 
 ## How difficult is the challenge?
 
-**The coding challenge is meant to be accessible to everyone**. Many
+The coding challenge is meant to be accessible to everyone. Many
 of our applicants have never programmed before. Everyone should review
 these prepwork materials, which are intended to teach you the
 fundamental concepts of programming so that you can succeed on the
@@ -38,13 +38,13 @@ Please see the [setup instructions][setup] document.
 
 ## How do I prepare for the challenge?
 
-**You will want to prepare for the coding challenge so that you do
-your best**.
+You will want to prepare for the coding challenge so that you do
+your best.
 
 **First, you should review our Introduction to Programming**. This
 will cover the fundamental concepts of programming you'll need to
-know. **We recommend that you at least skim them even if you already
-know how to program**:
+know. We recommend that you at least skim them even if you already
+know how to program:
 
 * **[Introduction To Programming I][intro-to-programming-1]**
 * **[Introduction To Programming II][intro-to-programming-2]**
@@ -82,10 +82,8 @@ We have designed the challenge to be done in Ruby, which is the
 language of Rails. The readings and practice problems we've provided
 are in Ruby.
 
-You may also answer the challenge in Python or JavaScript. We will in
-no way penalize you for using Python or JavaScript. **You should use
-whatever language you are most comfortable with; we want you to do
-your best**.
+You may also answer the challenge in Python, Java or JavaScript. We will in
+no way penalize you for using any of these other languages.
 
 Some languages are not well suited for the coding challenge. If you
 know another language and would strongly prefer to answer in that,
@@ -95,18 +93,18 @@ please contact us: [admissions@appacademy.io][admissions].
 
 ## How soon should I take the challenge?
 
-**Take all the time you need to prepare for the challenge**. We want
+Take all the time you need to prepare for the challenge. We want
 you to do your best. We do not give any preference to applicants based
-on how soon they take the challenge. **Prematurely beginning the
+on how soon they take the challenge. Prematurely beginning the
 challenge before completing the prepwork will hurt your
-application**. Taking your time to prepare thoroughly will help you.
+application. Taking your time to prepare thoroughly will help you.
 
-The challenge will take up to 45 minutes. **Please have time set aside
+The challenge will take up to 45 minutes. Please have time set aside
 so that you can complete the challenge unhurried by other
-commitments.**
+commitments.
 
 ## Can I use Google for answers during the challenge?
 
-**Please** do not search Google for answers to the problems; it is
+**Please do not search Google for answers** to the problems; it is
 very easy for us to tell when solutions have been taken from Google.
-**Please do not post the problems to the internet**.
+Please do not post the problems to the internet.

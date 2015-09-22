@@ -379,9 +379,9 @@ puts(one + three + " is an unlucky number!")
 #   13 is an unlucky number
 ```
 
-**Notice that throughout we haven't written `1.to_s()` or
-`"234".to_i()` with parentheses, because when there are no arguments,
-the parentheses aren't necessary.**
+**Note:** we haven't written `1.to_s()` or
+`"234".to_i()` with parentheses. When there are no arguments,
+the parentheses aren't necessary.
 
 ## The `chomp` Method
 
