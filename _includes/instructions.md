@@ -7,7 +7,7 @@ meant to measure your ability to solve problems with code.
 The test will take up to 1 hour. Please have time set aside so that
 you can complete the test unhurried by other commitments.
 
-Do **take your time in preparing for the test** so that you may do
+Do take your time in preparing for the test so that you may do
 your best. There is no hurry. You may take it whenever you like.
 
 ## What programming language do I write in?
@@ -22,5 +22,5 @@ that, please [contact us](mailto:admissions@appacademy.io).
 
 ## Outside sources
 
-**Please** do not search Google for answers to the
-problems. **Please do not post our problems to the internet**.
+Please do not search Google for answers to the
+problems. Please **do not post our problems to the internet**.

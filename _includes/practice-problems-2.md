@@ -58,5 +58,5 @@ My advice is to solve them all once, then put your solutions away and
 solve them all again a day later. You should build a good, intuitive
 grasp of the techniques needed to solve these problems.
 
-**I've included solutions**, but you shouldn't look at those until you
+I've included solutions, but you shouldn't look at those until you
 finish a problem (or get stuck).
