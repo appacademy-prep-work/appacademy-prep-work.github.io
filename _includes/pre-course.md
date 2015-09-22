@@ -20,9 +20,6 @@ in the course.
       begin**. See inside for exact date.
 * **[Typing practice][typing-practice]** (required)
 * [Extra resources and documents][extra-resources]
-* **[Assessment00][assessment00]**
-    * **We will mail you assessment00 3 weeks before your cycle
-      begins.**
 * **[Gear Recommendations][gear]**
 
 [welcome]: ./welcome
