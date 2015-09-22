@@ -28,11 +28,6 @@ be ready for class when it starts.
 
 [readings]: ../readings
 
-## Due-date (Only relevant for accepted students)
-
-Test-First Ruby and Event Manager are due 3 weeks before your cycle
-begins. The Twitter clone is due the Friday before your cycle begins.
-
 ## Test-First Ruby (Alex Chaffee)
 
 [Test-First Ruby][test-first-ruby] is a great way to test your Ruby
@@ -58,36 +53,6 @@ below).
 that includes a space**. For instance, `/Users/FNAME LNAME/learn_ruby`
 contains a space. If necessary, move the `learn_ruby` to a directory
 path that doesn't contain a space.
-
-## Rails Tutorial
-
-**Not required if you are doing the Post-Acceptance Prepwork as part
-of the application process and have not already enrolled into the
-class.**
-
-We want you to complete and turn in the
-[Rails Tutorial][rails-tutorial] before starting the class. We'll
-start with Ruby before moving into Rails, but we want you to have
-played around with Rails a little. Following along with the tutorial,
-build the Twitter clone that the book has you start in Chapter 3 (read
-and follow along with the earlier chapters, too, of course) and finish
-through the rest of the book.
-
-[rails-tutorial]: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
-
-## Event Manager (JumpstartLabs)
-
-[Event Manager][event-manager] is a tutorial that walks you through
-writing your first Ruby program. Work through the tutorial, writing
-code. **Type the code yourself** instead of copy and pasting; that way
-you'll remember the commands better.
-
-You can skip the iterations at the end of the tutorial.
-
-When you've finished building the Event Manager, send it to us
-(instructions below).
-
-[event-manager]: http://tutorials.jumpstartlab.com/projects/eventmanager.html
 
 ## Submitting Your Work
 
