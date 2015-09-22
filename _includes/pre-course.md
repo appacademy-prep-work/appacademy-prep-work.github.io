@@ -27,6 +27,5 @@ in the course.
 [pre-course-readings]: ./readings
 [homework]: ./homework
 [extra-resources]: ./extra-resources
-[assessment00]: ./assessment00
 [typing-practice]: ./typing
 [gear]: ./gear
