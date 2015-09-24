@@ -11,11 +11,12 @@ There are a few things you need to do before starting the prep work:
 
 * **[Sign up for your cohort's mailing list][mailing-signup]**
 * **Request to be added to your cycle's GitHub team**
-  * If you haven't already, sign up for an account on [GitHub][github].
-  * Email contact@appacademy.io and request to be added:
-    * Subject: GitHub Team Request: (Cycle Start Date)
-    * Body: My GitHub username is (username) and I would like to be
-      added to the team for the (cycle start date) cycle. Thanks!
+    * If you haven't already, sign up for an account on [GitHub][github].
+    * Email contact@appacademy.io and request to be added:
+        * **Subject**: GitHub Team Request: (Cycle Start Date)
+        * **Body**: I am (full name), and I have been accepted into the
+          (cycle start date) cycle. My GitHub username is (username) and
+          I would like to be added to the cycle GitHub team. Thanks!
 * **[Do these required readings][pre-course-readings]**
 * **[Do this required homework][homework]**
 * **[Typing practice][typing-practice]** (required)
