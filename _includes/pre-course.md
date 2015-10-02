@@ -18,7 +18,6 @@ There are a few things you need to do before starting the prep work:
           (cycle start date) cycle. My GitHub username is (username) and
           I would like to be added to the cycle GitHub team. Thanks!
 * **[Do these required readings][pre-course-readings]**
-* **[Do this required homework][homework]**
 * **[Typing practice][typing-practice]** (required)
 
 Once you've been added to the GitHub team, you'll be able to access the
@@ -46,7 +45,6 @@ they will answer it.
 [extra-resources]: ./extra-resources
 [gear]: ./gear
 [github]: https://github.com
-[homework]: ./homework
 [mailing-signup]: ./mailing-signup
 [pre-course-readings]: ./readings
 [typing-practice]: ./typing
