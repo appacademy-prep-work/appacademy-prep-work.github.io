@@ -58,6 +58,4 @@ path that doesn't contain a space.
 
 When done, please zip your Test First Ruby folder (complete with
 instructions, specs, and your solutions) and mail it to us at
-[admissions@appacademy.io](mailto:admissions@appacademy.io). Please also attach
-your Event Manager. If you are completing this after enrolling for the class,
-please send a link to your Twitter clone the Friday before your cohort begins.
+[admissions@appacademy.io](mailto:admissions@appacademy.io).
