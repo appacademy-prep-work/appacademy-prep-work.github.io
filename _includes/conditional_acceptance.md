@@ -39,8 +39,8 @@ available and sees your question, there's a good chance they will answer it.
 * **[Gear Recommendations][gear]**
 
 [appacademy-prep]: https://github.com/appacademy/appacademy-prep
-[extra-resources]: ./extra-resources
-[gear]: ./gear
+[extra-resources]: ../extra-resources
+[gear]: ../gear
 [github]: https://github.com
-[pre-course-readings]: ./readings
-[typing-practice]: ./typing
+[pre-course-readings]: ../readings
+[typing-practice]: ../typing
