@@ -36,7 +36,6 @@ workday; we don't guarantee that you'll get a response, but if a TA is
 available and sees your question, there's a good chance they will answer it.
 
 * [Extra resources and documents][extra-resources]
-* **[Gear Recommendations][gear]**
 
 [appacademy-prep]: https://github.com/appacademy/appacademy-prep
 [extra-resources]: ../extra-resources
