@@ -1,4 +1,4 @@
-Hi there! The final step in your application process is the technical interview. 
+Hi there! The final step in your application process is the technical interview.
 To prepare for the interview, look over the prepwork we've
 prepared for you. Especially if you're new to coding, this prepwork is
 meant to introduce you to the programming concepts you'll need to
@@ -14,7 +14,7 @@ Read all of this document. But here's the executive summary:
 
 ## What is involved in the technical interview?
 
-We will ask you a series of short coding problems that 
+We will ask you a series of short coding problems that
 measure basic programming knowledge. The questions will be
 derived from the prepwork, so make sure you prepare!
 
@@ -70,6 +70,12 @@ be similar to the difficulty of questions in the technical interview:
 * **[Practice Coding Exercise][practice-coding-exercise]**
 
 [practice-coding-exercise]: ./practice-coding-exercise
+
+**Finally, continue on to Technical Interview Prep II
+
+* **[Technical Interview Prep II][techincal-interview-prep-2]**
+
+[technical-interview-prep-2]: ./coding-test-2
 
 ## What programming language do I write in?
 
