@@ -71,11 +71,11 @@ be similar to the difficulty of questions in the technical interview:
 
 [practice-coding-exercise]: ./practice-coding-exercise
 
-**Finally, continue on to Technical Interview Prep II
+**Finally, continue on to Technical Interview Prep II**
 
 * **[Technical Interview Prep II][technical-interview-prep-2]**
 
-[technical-interview-prep-2]: ./coding-test-2
+[technical-interview-prep-2]: ../coding-test-2
 
 ## What programming language do I write in?
 
