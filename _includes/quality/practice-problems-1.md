@@ -21,7 +21,7 @@ Programming Summary][intro-to-programming-summary].
 Once you feel you have a good grasp of the practice problems, please move onto
 [Technical Interview Prep II][technical-interview-prep-2]
 
-[technical-interview-prep-2]: ../../technical-interview-prep-2
+[technical-interview-prep-2]: ../../technical-interview-2
 
 ## Setup
 
