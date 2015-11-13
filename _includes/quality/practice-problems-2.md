@@ -8,13 +8,13 @@ all of the practice problems from there.
 **must** setup the web based ruby development environment.
 
 [download-problems]: ../practice-problems-2.zip
-[setup]: ../../coding-test-1/setup
+[setup]: ../../technical-interview-1/setup
 
 # Practice Problems II
 We recommend that you continue to use the Cloud9 development
 environment. See these [setup instructions][c9-setup].
 
-[c9-setup]: ../../coding-test-1/setup
+[c9-setup]: ../../technical-interview-1/setup
 
 Alternatively, you might prefer to setup Ruby on your own computer. If
 you choose to do so, you can download this whole prep-work repository,

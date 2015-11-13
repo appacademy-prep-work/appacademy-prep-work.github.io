@@ -75,7 +75,7 @@ be similar to the difficulty of questions in the technical interview:
 
 * **[Technical Interview Prep II][technical-interview-prep-2]**
 
-[technical-interview-prep-2]: ../coding-test-2
+[technical-interview-prep-2]: ../technical-interview-2
 
 ## What programming language do I write in?
 

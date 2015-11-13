@@ -8,7 +8,7 @@ problem. Make sure you understand the solutions.
 We've noted a difficulty level for each problem. The easy ones are a
 little easier than the problems you'll see during the interview, the
 medium ones are a good proxy for the difficulty of the interview, and
-the hard ones are generally harder than those you'll encounter during 
+the hard ones are generally harder than those you'll encounter during
 the interview.
 
 Each of these practice problems is an individual Ruby file. Run the

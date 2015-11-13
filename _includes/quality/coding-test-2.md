@@ -21,7 +21,7 @@ will be running them through a web based development environment. Please see the
 * **[Example practice problems][practice-problems]**
 
 [instructions]: ./instructions
-[setup]: ../coding-test-1/setup
+[setup]: ../technical-interview-1/setup
 [chris-pine]: http://filepi.com/i/kF0llED
 [ruby-monk]: http://rubymonk.com
 [mini-curriculum]: ../../mini-curriculum

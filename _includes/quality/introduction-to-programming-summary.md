@@ -10,7 +10,7 @@ Make sure to test your skills with the
 After reading the summary of what you've learned so far, continue on to
 [Technical Interview Prep II][technical-interview-prep-2]!
 
-[technical-interview-prep-2]: ../../coding-test-2
+[technical-interview-prep-2]: ../../technical-interview-2
 
 ## Integers
 
