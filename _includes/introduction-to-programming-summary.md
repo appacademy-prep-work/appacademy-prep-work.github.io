@@ -8,10 +8,6 @@ challenge!
 
 [practice-problems]: ../practice-problems
 
-After reading the summary of what you've learned so far, continue on to
-[Technical Interview Prep II][techincal-interview-prep-2]!
-
-[techincal-interview-prep-2]: ./coding-test-2
 
 ## Integers
 
