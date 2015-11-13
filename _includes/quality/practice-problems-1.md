@@ -18,6 +18,11 @@ If you would like to review the Introduction to Programming Minibook,
 a recap of the various topics are available here: [Introduction To
 Programming Summary][intro-to-programming-summary].
 
+Once you feel you have a good grasp of the practice problems, please move onto
+[Technical Interview Prep II][technical-interview-prep-2]
+
+[technical-interview-prep-2]: ../../technical-interview-prep-2
+
 ## Setup
 
 **We strongly recommend you use Cloud9 (c9.io) to do the practice
