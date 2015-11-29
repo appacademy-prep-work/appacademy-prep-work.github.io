@@ -3,7 +3,6 @@ those that have exercises, do them.
 
 * Peter Cooper's [Beginning Ruby](http://beginningruby.org/)
     * Your primary resource for learning Ruby.
-    * Required reading.
     * ch1-4
     * ch6 (skip ch5)
     * Just RubyGems (pg. 168-175 in the second edition) from ch7
