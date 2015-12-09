@@ -13,14 +13,15 @@ Here are the key steps:
 0. C9.io will provide a text editor for you to edit Ruby code in the
    browser. You can write Ruby code in the text editor. At the bottom
    is a console, you can run your code in the console.
-0. Run the following commands in the console
+0. Run the following commands in the console. This will download the zipped
+   file and unzip it for you. You should have a folder with the practice
+   problems.
 
 ```
   wget http://prepwork.appacademy.io/coding-test-1/practice-problems-1.zip
 
   unzip practice-problems-1.zip
 ```
-0. You should now have a practice-problems/ folder created.
 
 You should be able to do all the prepwork using c9.io.
 
