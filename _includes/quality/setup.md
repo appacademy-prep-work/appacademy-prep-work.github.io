@@ -4,22 +4,28 @@ It is not required to install Ruby on your own machine before the
 technical interview. The easiest way to start using Ruby is to use
 **[Cloud9][c9.io]**; it is free.
 
-We've recorded a [video demo][video-demo] of how to use
-Cloud9. Here are the key steps:
+Here are the key steps:
 
 0. Go to [c9.io][c9.io] and sign up.
 0. After you've signed up and confirmed your email, delete the default
    demo-project.
-0. Next, create a new project. Where it says "Source URL" paste in
-  **https://github.com/appacademy/prep-work.git**.
+0. Next, create a new project. Make sure the custom template is selected.
 0. C9.io will provide a text editor for you to edit Ruby code in the
    browser. You can write Ruby code in the text editor. At the bottom
    is a console, you can run your code in the console.
+0. Run the following commands in the console. This will download the zipped
+   file and unzip it for you. You should have a folder with the practice
+   problems.
+
+  ```
+   wget http://prepwork.appacademy.io/coding-test-1/practice-problems-1.zip
+
+   unzip practice-problems-1.zip
+  ```
 
 You should be able to do all the prepwork using c9.io.
 
 [c9.io]: https://www.c9.io/
-[video-demo]: https://vimeo.com/126318718
 
 ## Advanced Setup
 
