@@ -14,8 +14,10 @@ Here are the key steps:
    browser. You can write Ruby code in the text editor. At the bottom
    is a console, you can run your code in the console.
 0. Run the following commands in the console
+
 ```
   wget http://prepwork.appacademy.io/coding-test-1/practice-problems-1.zip
+
   unzip practice-problems-1.zip
 ```
 0. You should now have a practice-problems/ folder created.
