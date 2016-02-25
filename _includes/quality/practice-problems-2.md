@@ -1,32 +1,27 @@
+### **Use Repl.it**
+[Problems][practice-problems-2]
+
+[Solutions][practice-solutions-2]
+
+**OR**
+
 [Download][download-problems]
 
-If you haven't already done so, follow [these instructions][setup] to setup a
+If you choose to download the files, be sure to follow [these instructions][setup] to setup a
 web based ruby development environment. Once installed you will be able to run
 all of the practice problems from there.
 
-**Note**: These practice problems will not be found on codeacademy - you
-**must** setup the web based ruby development environment.
-
-[download-problems]: ../practice-problems-2.zip
-[setup]: ../../technical-interview-1/setup
-
-# Practice Problems II
-We recommend that you continue to use the Cloud9 development
-environment. See these [setup instructions][c9-setup].
-
-[c9-setup]: ../../technical-interview-1/setup
-
 Alternatively, you might prefer to setup Ruby on your own computer. If
-you choose to do so, you can download this whole prep-work repository,
+you choose to do so, you can download the whole prep-work repository,
 including the practice problems, in [ZIP format][repo-zip].
 
-These practice problems are meant to be written, and run through the
-web based development environment. Please see the following instructions to get
-started.
-
+[download-problems]: ../practice-problems-2.zip
+[practice-problems-2]: https://repl.it/Bpym/25
+[practice-solutions-2]: https://repl.it/Bpzz/0
 [repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
+[setup]: ../../technical-interview-1/setup
 
-## Practice Problem Instructions
+## Downloaded Practice Problem Instructions
 
 First, open a terminal at the
  `prep-work/coding-test-2/practice-problems` directory. If you are using
