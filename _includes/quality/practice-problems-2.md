@@ -1,7 +1,15 @@
 ### **Use Repl.it**
-[Problems][practice-problems-2]
+#### Problems
 
-[Solutions][practice-solutions-2]
+1. [Nearest Larger][nearest_larger] - [Solution][nearest_larger_sol]
+2. [No Repeats][no_repeats] - [Solution][no_repeats_sol]
+3. [Letter Count][letter_count] - [Solution][letter_count_sol]
+4. [Ordered Vowel Words][ordered_vowel_words] - [Solution][ordered_vowel_words_sol]
+5. [Wonky Coins][wonky_coins] - [Solution][wonky_coins_sol]
+6. [Morse Encode][morse_encode] - [Solution][morse_encode_sol]
+7. [Word Unscrambler][word_unscrambler] - [Solution][word_unscrambler_sol]
+8. [Rectangular Intersection][rec_intersection] - [Solution][rec_intersection_sol]
+9. [Bubble Sort][bubble_sort] - [Solution][bubble_sort_sol]
 
 **OR**
 
@@ -16,10 +24,26 @@ you choose to do so, you can download the whole prep-work repository,
 including the practice problems, in [ZIP format][repo-zip].
 
 [download-problems]: ../practice-problems-2.zip
-[practice-problems-2]: https://repl.it/Bpym/25
-[practice-solutions-2]: https://repl.it/Bpzz/0
 [repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
 [setup]: ../../technical-interview-1/setup
+[nearest_larger]: https://repl.it/BrI2/0
+[nearest_larger_sol]: https://repl.it/BrIg/0
+[no_repeats]: https://repl.it/BrI5/0
+[no_repeats_sol]: https://repl.it/BrIh/0
+[letter_count]: https://repl.it/BrI6/0
+[letter_count_sol]: https://repl.it/BrIi/0
+[ordered_vowel_words]: https://repl.it/BrI7/0
+[ordered_vowel_words_sol]: https://repl.it/BrIj/0
+[wonky_coins]: https://repl.it/BrI9/0
+[wonky_coins_sol]: https://repl.it/BrIm/0
+[morse_encode]: https://repl.it/BrIa/0
+[morse_encode_sol]: https://repl.it/BrIn/0
+[word_unscrambler]: https://repl.it/BrIb/0
+[word_unscrambler_sol]: https://repl.it/BrIp/0
+[rec_intersection]: https://repl.it/BrIc/0
+[rec_intersection_sol]: https://repl.it/BrIr/0
+[bubble_sort]: https://repl.it/BrId/0
+[bubble_sort_sol]: https://repl.it/BrIu/0
 
 ## Downloaded Practice Problem Instructions
 
