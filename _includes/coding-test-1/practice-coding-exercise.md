@@ -23,7 +23,7 @@ integers and returns true if any three consecutive elements sum to 7.
     lucky_sevens?([7,7,7,7]) == false
     lucky_sevens?([3,4,3,4]) == false
 
-Make sure your code currectly checks for edge cases (i.e. the first
+Make sure your code correctly checks for edge cases (i.e. the first
 and last elements of the array).
 
 ## oddball_sum
@@ -38,7 +38,7 @@ and returns the sum of all the odd elements.
 ## disemvowel
 
 Write a function `disemvowel(string)`, which takes in a string, and returns that
-string will all the vowels removed. Treat "y" as a consonant.
+string with all the vowels removed. Treat "y" as a consonant.
 
     disemvowel("foobar") == "fbr"
     disemvowel("ruby") == "rby"
