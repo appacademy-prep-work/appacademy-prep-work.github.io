@@ -14,8 +14,9 @@ your best. There is no hurry. You may take it whenever you like.
 
 We have designed the test in Ruby, which is the language of Rails.
 
-You may also answer the challenge in Python, if you choose. If you do
-not know Python, please complete the challenge in Ruby.
+You may also answer the challenge in Python, JavaScript or Java if you choose.
+If you do not know either of the languages mentioned, please complete the
+challenge in Ruby.
 
 If you know another language and would strongly prefer to answer in
 that, please [contact us](mailto:admissions@appacademy.io).
