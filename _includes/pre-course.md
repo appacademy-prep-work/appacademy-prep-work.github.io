@@ -7,21 +7,21 @@ behind. For that reason, we have compiled prepwork for you to train up
 on and start to flex your Ruby muscles. **Completing the prepwork is
 required**.
 
-There are a few things you need to do before starting the prep work:
+There are a few things you need to do before you get here:
 
-* **[Sign up for your cohort's mailing list][mailing-signup]**
-* **Request to be added to your cycle's GitHub team**
+1. **[Sign up for your cohort's mailing list][mailing-signup]**
+2. **Request to be added to your cycle's GitHub team**
     * If you haven't already, sign up for an account on [GitHub][github].
     * Email contact@appacademy.io and request to be added:
         * **Subject**: GitHub Team Request: (Cycle Start Date)
         * **Body**: I am (full name), and I have been accepted into the
           (cycle start date) cycle. My GitHub username is (username) and
           I would like to be added to the cycle GitHub team. Thanks!
-* **[Do these required readings][pre-course-readings]**
-* **[Typing practice][typing-practice]** (required)
+3. **[Get started on these required readings][pre-course-readings]**
+4. **[Typing practice][typing-practice]**
+5. **[Complete the 4-week prep course][appacademy-prep]** (This link will
+  be broken until we've added you to our Github team.)
 
-Once you've been added to the GitHub team, you'll be able to access the
-preparatory curriculum [here][appacademy-prep].
 
 Students who are successful in the course start the prepwork early; we
 strongly recommend that you start it immediately after being accepted.
