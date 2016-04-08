@@ -1,39 +1,46 @@
-Welcome to the App Academy prep work!
+# Welcome to App Academy!
 
-App Academy is a fast-moving course and we want to know that you'll be
-well-prepared and able to keep pace with the curriculum. For that reason,
-we've compiled this prep work for you to train on and start to flex your
-Ruby muscles. **Completing the prep work is required for your conditional
-acceptance.**
+Congratulations on your acceptance!
 
-There are a few things you need to do before starting the prep work:
+For your next step in the process, we've created a prep course for you
+to work through. The prep work is designed to get you up to speed and
+ready to enter the program. We know that life is busy, so it's a
+part-time course, and it focuses on the basics.
 
-* **Request to be added to the GitHub team**
+Your full acceptance will depend on our assessment of your final
+interview, which we will schedule after you have submitted the prep
+work. We expect to see **_marked improvement_** in your coding skills
+compared to your previous interviews, so don't just breeze through the
+prep work; get the full benefit from it. Take your time to practice and
+review. Make sure your coding is fluid, your problem-solving skills are
+sharp, and your vocabulary of Ruby methods is strong.
+
+# Let's get started!
+
+There are parts of the prep work that you can do immediately, but in
+order to access the full curriculum, you'll need to create a Github
+account and send it to us first. Follow these steps:
+
+1. **Request to be added to the GitHub team**
     * If you haven't already, sign up for an account on [GitHub][github].
     * Email contact@appacademy.io and request to be added:
         * **Subject**: GitHub Team Request: Conditional Acceptance
         * **Body**: I am (full name), and I have been conditionally accepted
           into the App Academy. My GitHub username is (username) and
           I would like to be added to the team. Thanks!
-* **[Do these required readings][pre-course-readings]**
-* **[Typing practice][typing-practice]** (required)
+2. **[Do these required readings][pre-course-readings]**
+3. **[Typing practice][typing-practice]** (required)
+4. **[Complete the 4-week prep course][appacademy-prep]** (This link will
+  be broken until we've added you to our GitHub team.)
 
-Once you've been added to the GitHub team, you'll be able to access the
-preparatory curriculum [here][appacademy-prep].
+You will find instructions for submitting the prepwork on GitHub once
+you have access. Remember, **you must submit the prepwork** in order to
+secure your acceptance, so the sooner you get started on the prep work,
+the sooner you can come to App Academy, and the sooner your software
+career can take off!
 
-Students who are successful and end up getting accepted start the prepwork
-early; we strongly recommend that you start it immediately, or as soon as
-possible. Don't put it off; you need to practice as much as you can
-and give yourself time to absorb the material.
-
-The prep work is designed to take about three hours a night over four
-weeks, but you're free to take it at whatever pace you feel is appropriate.
-TAs will be available for office hours to answer your questions on Slack
-between 6:00pm and 8:00pm PDT, Monday through Thursday. You can join us in
-our Slack channel to ask questions and share pointers with other students
-who have been conditionally accepted. You an also ask questions during the
-workday; we don't guarantee that you'll get a response, but if a TA is
-available and sees your question, there's a good chance they will answer it.
+We believe that with practice you have great potential. **Prove us
+right!**
 
 * [Extra resources and documents][extra-resources]
 
