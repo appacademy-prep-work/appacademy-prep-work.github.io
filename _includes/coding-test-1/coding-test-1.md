@@ -76,6 +76,18 @@ be similar to the actual coding challenge:
 
 [practice-coding-exercise]: ./practice-coding-exercise
 
+**Fourth, optionally sign up for tutoring sessions!** Our tutors can help you if you get stuck with the prep work and they can also give you mock interviews.
+
+In the mock interview, you'll solve a coding question similar to our interview problems in an environment like your actual interview. Tutors will give you feedback on where you get stuck and what you need to work on.
+
+We estimate that App Academy Tutoring increases an applicant’s chances of acceptance from around 3% to 30% due to their increased coding ability.
+
+Receiving App Academy Tutoring in no way guarantees acceptance into the course, nor is it required to prepare for the coding challenge; it is a tool to improve your understanding of programming.
+
+* **[App Academy Tutoring][app-academy-tutoring]**
+
+[app-academy-tutoring]: http://www.appacademy.io/students/tutoring?utm_source=coding_test_1_prepwork
+
 ## What programming language do I write in?
 
 We have designed the challenge to be done in Ruby, which is the
