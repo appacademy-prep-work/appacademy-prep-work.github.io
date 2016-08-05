@@ -9,7 +9,7 @@ You will have the option to code in Ruby, Python, JavaScript, Perl, PHP, or Java
   - We want to evaluate you on your own work, so the interview is closed-book.
     - **Ask** your interviewer questions specially if they're related to syntax or your general approach to a problem. They'll be happy to help!
   - You won't be able to run your code in any REPL or interpreter.
-    - Take sometime to **practice** writing working code without the help of a REPL.
+    - Take some time to **practice** writing working code without the help of a REPL.
     - Speed is important. Time yourself to recreate a testing environment.
   - Bugs will come up.
     - Practice breaking up your code into manageable parts.
