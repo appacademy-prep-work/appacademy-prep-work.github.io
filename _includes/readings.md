@@ -14,11 +14,11 @@ those that have exercises, do them.
     * There are a few exercises at the end of each chapter under the
       heading, "A Few Things to Try". Do these for practice, but you
       don't have to submit them to us.
-* Ruby Monk's [Ruby Primer][ruby-primer]
+* Code Academy's [Ruby Course][ruby-course]
     * An interactive introduction to Ruby.
-* Zed Shaw's [The Command Line Crash Course][shaw-cli]
+* Code Academy's [The Command Line Course][codeacademy-cli]
 
 [ruby-in-100-min]: http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
 [chris-pine]: https://pine.fm/LearnToProgram/
-[ruby-primer]: http://rubymonk.com/learning/books/1
-[shaw-cli]: http://cli.learncodethehardway.org/book/
+[ruby-course]: https://www.codecademy.com/learn/ruby
+[codeacademy-cli]: https://www.codecademy.com/learn/learn-the-command-line
