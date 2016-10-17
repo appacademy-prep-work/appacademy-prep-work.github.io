@@ -1,9 +1,9 @@
 We have some required introductory readings. Make sure to read these;
 those that have exercises, do them.
 
-* Peter Cooper's [Beginning Ruby](http://beginningruby.org/)
+* Peter Cooper's [Beginning Ruby][peter-cooper]
     * Your primary resource for learning Ruby.
-    * ch1-4
+    * ch2-4
     * ch6 (skip ch5)
     * Just RubyGems (pg. 168-175 in the second edition) from ch7
     * Just Testing (pg. 192-196 in the second edition) from ch8
@@ -18,6 +18,7 @@ those that have exercises, do them.
     * An interactive introduction to Ruby.
 * Code Academy's [The Command Line Course][codeacademy-cli]
 
+[peter-cooper]: http://peterc.org/beginningruby/
 [ruby-in-100-min]: http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html
 [chris-pine]: https://pine.fm/LearnToProgram/
 [ruby-course]: https://www.codecademy.com/learn/ruby
