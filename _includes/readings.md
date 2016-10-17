@@ -2,11 +2,7 @@ We have some required introductory readings. Make sure to read these;
 those that have exercises, do them.
 
 * Peter Cooper's [Beginning Ruby][peter-cooper]
-    * Your primary resource for learning Ruby.
     * ch2-4
-    * ch6 (skip ch5)
-    * Just RubyGems (pg. 168-175 in the second edition) from ch7
-    * Just Testing (pg. 192-196 in the second edition) from ch8
 * JumpstartLabs' [Ruby in 100 Minutes][ruby-in-100-min]
     * Another intro to Ruby with a lot of good intro exercises.
 * Chris Pine's [Learn to Program][chris-pine]
