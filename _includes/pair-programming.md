@@ -1,6 +1,6 @@
 # Pair programming
 
-## How to pair
+## What is pair programming?
 
 In pair programming, two programmers work together at one workstation.
 The **driver** types at the keyboard while the **navigator** directs
@@ -14,7 +14,9 @@ but the driver will often need clarification about what the navigator
 intends for them to do. When in disagreement, the pair needs to
 discuss the proper course of action.
 
-**ABS**: Always be switching!
+Students at App Academy spend the majority of their time pair programming,
+despite how foreign it may seem at first. To ease the transition from coding on
+your own to pair programming, you will be paired with a Hacker-in-Residence for a portion of the technical interview. This will give you the opportunity to practice driving / navigating and ask any questions that arise from a *hands-on* experience.
 
 ## Benefits of pair programming
 
@@ -35,21 +37,20 @@ There are a number of reasons we pair:
 4. Working with other people is fun; we do a lot of coding, and it
    ought to be enjoyable.
 
-## Common mistakes of pair programming
+## The Do's and Don't's of Pair Programming
 
-There are a few major mistakes to avoid when pair programming:
+**Switch: Each partner should spend an equal amount of time in both roles to develop the unique skill sets inherent to each role.**
 
-1. Use a timer to schedule switches. You must switch; each partner
-   must have equal time in both roles.
-2. Drivers must not go off and start typing on their own, they must
-   follow the navigators' instructions. Avoid being a domineering
-   driver.
-3. Likewise, the navigator must be engaged, must ask plenty of
-   questions, and must be comfortable making suggestions. Avoid being
-   a passive navigator.
+### Driving
 
-**If one of you is typing away and the other is passively watching,
-you are both doing it wrong.**
+0. We all have strengths and weaknesses, so feel free to verbally help your navigator flesh out their ideas. Just don't go off typing on your own.
+0. Be patient. Give your partner some time to come up with a plan of action, even if you have an idea of what you want to do next.
+
+### Navigating
+
+0. Be engaged. Your driver is waiting to execute your algorithm, so do your best to lead yourselves in the right direction.
+0. Don't be afraid to ask questions. Navigating doesn't mean you have to know exactly what to do at any given time. Part of what makes pair programming great is integrating the knowledge and tactics of your peers into your own code.
+0. Don't micromanage. Your driver understands how to code - you don't have to tell them that an 'if' statement starts with a condition. You just have to tell them what the condition is.
 
 ## Resources
 
