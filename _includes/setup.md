@@ -7,9 +7,8 @@ coding challenge. The easiest way to start using Ruby is to use
 Here are the key steps:
 
 0. Go to [c9.io][c9.io] and sign up.
-0. After you've signed up and confirmed your email, delete the default
-   demo-project.
-0. Next, create a new project. Make sure the custom template is selected.
+0. After you've signed up and confirmed your email, create a new workspace.
+0. When creating the workspace, choose "Blank" as the template.
 0. C9.io will provide a text editor for you to edit Ruby code in the
    browser. You can write Ruby code in the text editor. At the bottom
    is a console, you can run your code in the console.
@@ -22,6 +21,9 @@ Here are the key steps:
 
   unzip practice-problems-1.zip
 ```
+
+Here's a brief screencast that demonstrates the steps above:
+https://www.dropbox.com/s/hpl0qiolvimfzph/c9%20set%20up.mov?dl=0
 
 You should be able to do all the prepwork using c9.io.
 
