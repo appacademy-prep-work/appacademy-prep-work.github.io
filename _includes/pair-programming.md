@@ -14,9 +14,13 @@ but the driver will often need clarification about what the navigator
 intends for them to do. When in disagreement, the pair needs to
 discuss the proper course of action.
 
-Students at App Academy spend the majority of their time pair programming,
-despite how foreign it may seem at first. To ease the transition from coding on
-your own to pair programming, you will be paired with a Hacker-in-Residence for a portion of the technical interview. This will give you the opportunity to practice driving / navigating and ask any questions that arise from a *hands-on* experience.
+Students at App Academy spend the majority of their in-class time pair
+programming, despite how foreign it may seem at first. To ease the
+transition from coding on your own to pair programming, you will be
+paired with a Hacker-in-Residence for a portion of the technical
+interview. This will give you the opportunity to practice driving /
+navigating and ask any questions that arise from a *hands-on*
+experience.
 
 ## Benefits of pair programming
 
