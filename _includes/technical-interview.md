@@ -4,7 +4,7 @@ App Academy's technical interview will consist of a series of timed coding chall
 You will have the option to code in Ruby, Python, JavaScript, PHP, or Java. During the interview, don't worry about perfect solutions! We accept partial solutions, and overall logic is more important to us than exact syntax.
 
 ## Pointers
-  - We need to know how well you can communicate about programming and your own code,.
+  - We need to know how well you can communicate about programming and your own code.
     - **Talk** us through your approach as you work through the problem.
   - We want to evaluate you on your own work, so the interview is closed-book.
     - **Ask** your interviewer questions, especially if they're related to syntax or your general approach to a problem. They'll be happy to help!
