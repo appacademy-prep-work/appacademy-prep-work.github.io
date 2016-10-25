@@ -1,11 +1,11 @@
 # Next Step: Technical Interview
-App Academy's technical interview will consist of a series of timed coding challenges. We will be using a webcam to video-chat over Skype (plus a browser-based text editor to write code together). There's no need to dress up or take it too seriously; this is purely so we can get a better feel for who you are and how you work through problems.
+App Academy's technical interview will consist of a series of timed coding challenges. We will be using a webcam to video-chat over Skype (plus a browser-based text editor to write code together). There's no need to dress up; this is purely so we can get a better feel for who you are and how you work through problems.
 
-You will have the option to code in Ruby, Python, JavaScript, Perl, PHP, or Java. During the interview, don't worry about perfect solutions! We accept partial solutions, and overall logic is more important to us than exact syntax.
+You will have the option to code in Ruby, Python, JavaScript, PHP, or Java. During the interview, don't worry about perfect solutions! We accept partial solutions, and overall logic is more important to us than exact syntax.
 
 ## Pointers
-  - We need to know how well you can communicate about programming and your own code.
-    - **Talk** us through your approach as you work through the problem.  
+  - We need to know how well you can communicate about programming and your own code,.
+    - **Talk** us through your approach as you work through the problem.
   - We want to evaluate you on your own work, so the interview is closed-book.
     - **Ask** your interviewer questions, especially if they're related to syntax or your general approach to a problem. They'll be happy to help!
   - You won't be able to run your code in any REPL or interpreter.
@@ -30,6 +30,12 @@ Keep the following in mind when approaching problems:
 - Aim to spend at most 30 minutes per problem.
 - Take a look at the solution and learn as much as you can from it.
 - Challenge yourself but avoid wasting time if it's not a learning experience.
+
+Once you're getting pretty good at solving the problems, add in some extra challenges:
+
+- Mentally step through your code. Practice until you can track every variable at every line without any trouble.
+- Try solving the problem without running your code until the very end. Try to get to the point where you can catch any bugs before running it.
+- Try explaining your solution to someone else, even if they don’t know any code. Get feedback from them. See if you can talk them through it _as_ you come up with your solution. Practice until they can easily follow your thoughts.
 
 [code-wars]: http://codewars.com
 [project-euler]: http://projecteuler.net
