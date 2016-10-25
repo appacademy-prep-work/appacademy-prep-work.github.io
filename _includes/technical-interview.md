@@ -31,6 +31,12 @@ Keep the following in mind when approaching problems:
 - Take a look at the solution and learn as much as you can from it.
 - Challenge yourself but avoid wasting time if it's not a learning experience.
 
+Once you're getting pretty good at solving the problems, add in some extra challenges:
+
+- Mentally step through your code. Practice until you can track every variable at every line without any trouble.
+- Try solving the problem without running your code until the very end. Try to get to the point where you can catch any bugs before running it.
+- Try explaining your solution to someone else, even if they don’t know any code. Get feedback from them. See if you can talk them through it _as_ you come up with your solution. Practice until they can easily follow your thoughts.
+
 [code-wars]: http://codewars.com
 [project-euler]: http://projecteuler.net
 [code-eval]: http://codeeval.com
