@@ -9,6 +9,8 @@ will be running them through a web based development environment. Please see the
 
 * [Instructions][instructions]
 * [Setup Ruby][setup]
+* [Try Ruby][tryruby]
+  * Complete the following lessons 1 - 4
 * [Chris Pine's Learn to Program][chris-pine]
     * Great for beginners; the first eight chapters will be great prep.
 * [AppAcademy: Mini Curriculum][mini-curriculum]
@@ -16,6 +18,7 @@ will be running them through a web based development environment. Please see the
 
 [instructions]: ./instructions
 [setup]: ../technical-interview-1/setup
+[tryruby]: https://www.codeschool.com/courses/try-ruby
 [chris-pine]: https://pine.fm/LearnToProgram/
 [mini-curriculum]: ../../mini-curriculum
 [practice-problems]: ./practice-problems

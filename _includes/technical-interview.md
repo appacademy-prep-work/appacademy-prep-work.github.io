@@ -19,9 +19,14 @@ You will have the option to code in Ruby, Python, JavaScript, PHP, or Java. Duri
 One of the best ways to build your programming chops is to get a lot of practice solving problems and puzzles. This list, while not comprehensive, is a good starting point (and should keep you occupied for quite a while).
 
 - [Code Wars][code-wars]: A collection of coding challenges rated by difficulty. Once you solve a problem, you can see other programmers' solutions.
+
+- [Code Fights][code-fights]: Fun way to practice and test your programming skills against other programming players and bots. Let the fight begin.
+
 - [Project Euler][project-euler]: The first few challenges are fairly straightforward and can be brute-forced. As you get further into the challenges, you'll have to be more clever about optimizing your algorithms.
+
 - [Code Eval][code-eval]: Coding challenges broken into three
   categories by difficulty. Fairly heavy on file input/output, so it can be difficult to debug. Alternatively, try making your own tests.
+
 - [LeetCode][leetcode]: A platform for preparing for technical coding interviews. The code you submit isn't only evaluated for correctness, but speed as well.
 
 Keep the following in mind when approaching problems:
@@ -38,6 +43,7 @@ Once you're getting pretty good at solving the problems, add in some extra chall
 - Try explaining your solution to someone else, even if they don’t know any code. Get feedback from them. See if you can talk them through it _as_ you come up with your solution. Practice until they can easily follow your thoughts.
 
 [code-wars]: http://codewars.com
+[code-fights]: https://codefights.com/
 [project-euler]: http://projecteuler.net
 [code-eval]: http://codeeval.com
 [leetcode]: https://leetcode.com
