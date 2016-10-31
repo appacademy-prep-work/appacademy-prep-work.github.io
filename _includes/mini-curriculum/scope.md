@@ -1,4 +1,4 @@
-[Scope](http://en.wikipedia.org/wiki/Scope_(computer_science) is the context in which a variable name is valid and can be
+[Scope][wiki-scope] is the context in which a variable name is valid and can be
 used.
 
 A name is *in scope* (accessible) if the name has been previously defined in the current method (called a
@@ -76,9 +76,5 @@ Even if you're loading in the contents of a library, you'll still have access to
 See [this link][rubyist-global-vars].  
 [rubyist-global-vars]: http://www.rubyist.net/~slagell/ruby/globalvars.html
 [file]: http://stackoverflow.com/questions/224379/what-does-file-mean-in-ruby
-
-## Credit
-
-[Wikipedia: Scope][wiki-scope]
 
 [wiki-scope]: http://en.wikipedia.org/wiki/Scope_(computer_science)
