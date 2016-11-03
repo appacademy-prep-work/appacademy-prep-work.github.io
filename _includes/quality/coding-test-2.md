@@ -9,20 +9,16 @@ will be running them through a web based development environment. Please see the
 
 * [Instructions][instructions]
 * [Setup Ruby][setup]
+* [Try Ruby][tryruby]
+  * Complete the following lessons 1 - 4
 * [Chris Pine's Learn to Program][chris-pine]
     * Great for beginners; the first eight chapters will be great prep.
-* [Ruby Monk][ruby-monk]
-    * Complete the following sections in the Ruby Primer section:
-        * Introduction to Ruby Objects
-        * Introduction to Strings
-        * Conditions and Loops
-        * Arrays in Ruby
 * [AppAcademy: Mini Curriculum][mini-curriculum]
 * **[Example practice problems][practice-problems]**
 
 [instructions]: ./instructions
 [setup]: ../technical-interview-1/setup
+[tryruby]: https://www.codeschool.com/courses/try-ruby
 [chris-pine]: https://pine.fm/LearnToProgram/
-[ruby-monk]: http://rubymonk.com
 [mini-curriculum]: ../../mini-curriculum
 [practice-problems]: ./practice-problems
