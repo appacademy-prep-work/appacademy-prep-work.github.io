@@ -179,7 +179,7 @@ current element, then executes the code block.
 
 The biggest advantage of `each` is that you don't have to keep track
 of an index variable. This may not seem like a big deal, but every
-line of code you don't have to write is one less to debug.
+line of code you don't have to write is one fewer to debug.
 
 In particular, one of the most common programming errors is to forget
 to increment the index variable each time:
