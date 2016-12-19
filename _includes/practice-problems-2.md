@@ -48,10 +48,16 @@ including the practice problems, in [ZIP format][repo-zip].
 ## Downloaded Practice Problem Instructions
 
 First, open a terminal at the
- `prep-work/coding-test-2/practice-problems` directory. If you are using
+`prep-work/coding-test-2/practice-problems` directory. If you are using
 Cloud9, the easiest way to do this is to right-click on that directory
-in the file tree and select "Open Terminal Here". Run `bundle install`.
-This will install the Ruby libraries needed to run the specs.
+in the file tree and select "Open Terminal Here".
+
+Next, we'll need to install the dependencies. We'll use a gem called
+`bundler` to do this. Once we install bundler, we can use it to install
+all the other Ruby gems we need to run the specs.
+
+    gem install bundler
+    bundle install
 
 You can then run the specs for an individual problem like so:
 
