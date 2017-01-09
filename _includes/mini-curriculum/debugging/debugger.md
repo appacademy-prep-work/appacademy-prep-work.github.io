@@ -153,8 +153,7 @@ debugging that you use Pry, but it will make life nicer.
 [irb]: http://en.wikipedia.org/wiki/Interactive_Ruby_Shell
 [pryrc]: https://github.com/appacademy/dotfiles/tree/master/dot
 
-We're also going to use debugger (`gem install debugger`). This is a
-Ruby 1.9.3 gem, so make sure you have that version.
+We're also going to use debugger (`gem install debugger`).
 
 ## Use the REPL to isolate the problem
 
