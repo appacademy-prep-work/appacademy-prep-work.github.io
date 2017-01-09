@@ -144,21 +144,17 @@ worry. We're about to learn better techniques.
 ## Pry and debugger
 
 We're going to use two gems. One is called Pry, which is a replacement
-for [irb][irb]. You'll have to `gem install pry`. It's not essential for
+for [irb][irb]. You'll have to `gem install pry`. You may also wish
+to grab my [.pryrc][pryrc] file. Download
+this to your home (`~`) directory and rename it with an initial
+dot. It should be picked up and used by Pry automatically. It's not essential for
 debugging that you use Pry, but it will make life nicer.
 
 [irb]: http://en.wikipedia.org/wiki/Interactive_Ruby_Shell
+[pryrc]: https://github.com/appacademy/dotfiles/tree/master/dot
 
 We're also going to use debugger (`gem install debugger`). This is a
-Ruby 1.9.3 gem, so make sure you have that version. You may also wish
-to grab my [.pryrc][pryrc] and [.rdebugrc][rdebugrc] files. Download
-them to your home (`~`) directory and rename them with an initial
-dot. They should be picked up and used by Pry and the Ruby debugger
-automatically.
-
-[pryrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/pryrc
-[rdebugrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/rdebugrc
-
+Ruby 1.9.3 gem, so make sure you have that version.
 
 ## Use the REPL to isolate the problem
 
