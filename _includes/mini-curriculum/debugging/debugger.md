@@ -151,13 +151,12 @@ debugging that you use Pry, but it will make life nicer.
 
 We're also going to use debugger (`gem install debugger`). This is a
 Ruby 1.9.3 gem, so make sure you have that version. You may also wish
-to grab my [.pryrc][pryrc] and [.rdebugrc][rdebugrc] files. Download
-them to your home (`~`) directory and rename them with an initial
+to grab my [.pryrc][pryrc] file. Download
+this to your home (`~`) directory and rename it with an initial
 dot. They should be picked up and used by Pry and the Ruby debugger
 automatically.
 
-[pryrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/pryrc
-[rdebugrc]: https://github.com/ruggeri/dotfiles/blob/master/ruby/rdebugrc
+[pryrc]: https://github.com/appacademy/dotfiles/tree/master/dot
 
 
 ## Use the REPL to isolate the problem
