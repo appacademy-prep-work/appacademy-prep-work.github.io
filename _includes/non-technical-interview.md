@@ -5,14 +5,17 @@ At App Academy, we prioritize having students who are technically strong, but we
 In the non-technical interview, we will be looking for whether you can effectively talk about why you would be a good fit for App Academy, and also whether you can communicate effectively.
 
 In this interview, there are two key components that we would like to learn about you:
+
 - How passionate are you about technology?
 - Why are you a good fit for App Academy?
 
 When talking about your passion for technology, be sure to cover:
+
 1. Why are you interested in tech?
 2. What made you decide to pursue software more seriously?
 
 When talking about why you would be a good fit for App Academy, be sure to cover:
+
 1. What relevant skills or accomplishments do you have that would show that you are a good fit for App Academy?
 2. Why do you want to be a part of App Academy in particular?
 
