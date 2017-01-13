@@ -17,7 +17,7 @@ When talking about your passion for technology, be sure to cover:
 When talking about why you would be a good fit for App Academy, be sure to cover:
 
 1. What relevant skills or accomplishments do you have that would show that you are a good fit for App Academy?
-2. Why do you want to be a part of App Academy in particular?
+2. Why do you want to attend App Academy in particular?
 
 ## Pointers
 
