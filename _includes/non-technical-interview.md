@@ -18,7 +18,7 @@ When talking about why you would be a good fit for App Academy, be sure to cover
 
 ## Pointers
 
-- In the non-technical interview, be sure to cover the 4 main areas listed above.
+- In the non-technical interview, be sure to cover all four of the questions listed above, even if we don't ask you directly.
 - **Be concise** in all of your answers.
 - While content is important, how you present yourself is also key:
   - Sound confident and engagingly deliver your answers.
@@ -26,12 +26,11 @@ When talking about why you would be a good fit for App Academy, be sure to cover
   - Have good body language and maintain eye contact.
   - Relax. Breathe. Smile.
 
-
 ## How To Prepare
 
-- Take some time to think through meaningful answers for each of the areas.
+- Take some time to think through meaningful answers for each of the questions.
 - Then, practice delivering the answers concisely. Don't ramble!
   - It's important to not only think through the answers, but also to practice delivering your answers out loud.
 - Some ways to practice delivering your answers include:
   - Recording yourself. This allows you to see how you are presenting yourself, and it also gives you an opportunity to evaluate how concise and engaging your answers are.  
-  - Mock interviewing with a friend.
+  - Practice interviewing with a friend.
