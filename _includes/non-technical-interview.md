@@ -1,39 +1,65 @@
 # Next Step: Non-Technical Interview
 
-At App Academy, we prioritize having students who are technically strong, but we also value students who are both good communicators and show a conviction for a career in software engineering.
+The non-technical interview will dive deeper into your background, understand your goals and motivations in attending a/A and answer any outstanding questions you may have about the program or admissions process.
 
-In the non-technical interview, we will be looking for whether you can effectively talk about why you would be a good fit for App Academy, and also whether you can communicate effectively.
+## What to expect
 
-In this interview, there are two key components that we would like to learn about you:
+Be prepared to talk about your background: **_what_**, **_when_**, and **_why_**. This includes any schooling you've had as well as jobs and periods when you were not working or were looking for a job.
+
+**_How_** you present yourself and your background is very important, not just what you've done. You should tell us a story that explains why we should accept you into our program.
+
+When it comes to that story, there are two key components that we would like to learn about you:
 
 - How passionate are you about technology?
 - Why are you a good fit for App Academy?
 
-When talking about your passion for technology, be sure to cover:
+Be sure to answer both of these questions, including the two aspects of each listed below.
+
+#### How passionate are you about technology?
+
+Obviously, we want to see some evidence that you like to code. People don't make it through our intense, 12-week program without desiring what's on the other side and enjoying the process a little, too. :smile:
 
 1. Why are you interested in tech?
 2. What made you decide to pursue software more seriously?
 
-When talking about why you would be a good fit for App Academy, be sure to cover:
+#### Why are you a good fit for App Academy?
+
+Passion alone will not get you through App Academy. We are a unique bootcamp with our own culture, focus, and pace of teaching. We want to see that you will thrive in the environment we've created here.
 
 1. What relevant skills or accomplishments do you have that would show that you are a good fit for App Academy?
 2. Why do you want to attend App Academy in particular?
 
 ## Pointers
 
-- In the non-technical interview, be sure to cover all four of the questions listed above, even if we don't ask you directly.
-- **Be concise** in all of your answers.
-- While content is important, how you present yourself is also key:
-  - Sound confident and engagingly deliver your answers.
-  - Don't use filler words.
-  - Have good body language and maintain eye contact.
-  - Relax. Breathe. Smile.
+### Hone your _content_
+
+- Be sure to cover _both aspects_ of _both questions_ listed above, even if we don't ask you directly.
+- Be _concise_ in all of your answers. Strip them down to the main points, and leave out the filler words.
+- Don't just present the facts; connect the dots for us. How does your unique combination of experiences, talents, and desires mean you'll be a fantastic App Academy student?
+
+### Don't forget about _body language_.
+
+- Speak clearly and confidently.
+- Be engaging: speak expressively and make eye contact.
+- Be positive: act like you're excited to talk to us.
+- Make your delivery fluid, but don't ramble.
+- Relax. Breathe. Smile.
 
 ## How To Prepare
 
-- Take some time to think through meaningful answers for each of the questions.
-- Then, practice delivering the answers concisely. Don't ramble!
-  - It's important to not only think through the answers, but also to practice delivering your answers out loud.
-- Some ways to practice delivering your answers include:
-  - Recording yourself. This allows you to see how you are presenting yourself, and it also gives you an opportunity to evaluate how concise and engaging your answers are.  
-  - Practice interviewing with a friend.
+### Create your content.
+
+- List out your background, including dates for everything. Think how best to present it to us.
+- Take some time to think through meaningful answers to the questions above.
+- Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
+
+### Practice your delivery.
+
+- Practice out loud.
+- Record yourself.
+  - This allows you to see how you are presenting yourself and how concise and engaging your answers are.
+  - Audio is good; video is _better_.
+- Practice interviewing with a friend and get feedback from them.
+  - Have your friend ask follow-up questions and see if you can answer them on the fly.
+
+[faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
