@@ -8,6 +8,8 @@ been sent an acceptance letter**.
 * [2017-05-01 (NY)][2017-05-01-ny]
 * [2017-05-29 (SF)][2017-05-29-sf]
 * [2017-07-03 (NY)][2017-07-03-ny]
+* [2017-07-31 (SF)][2017-07-31-sf]
+* [2017-09-04 (NY)][2017-09-04-ny]
 
 [2017-01-23-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2017-01-23-sf
 [2017-02-27-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2017-02-27-ny
@@ -15,3 +17,5 @@ been sent an acceptance letter**.
 [2017-05-01-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2017-05-01-ny
 [2017-05-29-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2017-05-29-sf
 [2017-07-03-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2017-07-03-ny
+[2017-07-31-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2017-07-31-sf
+[2017-09-04-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2017-09-04-ny
