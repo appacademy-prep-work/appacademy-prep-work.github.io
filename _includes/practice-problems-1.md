@@ -74,7 +74,7 @@ on how to use Cloud9.
 [is_power_of_2_sol]: https://repl.it/Br8Y/0
 [third_greatest]: https://repl.it/Br7X/0
 [third_greatest_sol]: https://repl.it/Br8Z/0
-[most_common_letter]: https://repl.it/Br81/33
+[most_common_letter]: https://repl.it/Br7Y/0
 [most_common_letter_sol]: https://repl.it/Br81/34
 [dasherize_number]: https://repl.it/Br72/0
 [dasherize_number_sol]: https://repl.it/Br87/0
