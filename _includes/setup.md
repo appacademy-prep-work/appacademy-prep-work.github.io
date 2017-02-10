@@ -42,11 +42,11 @@ frustrated by the hoops they have to jump through to setup their
 machine. Don't be discouraged if it's difficult!
 
 To install Ruby on Windows, we recommend
-[RubyInstaller][ruby-installer]. To install on Mac OSX, look at
-[Tokaido][tokaido].
+[RubyInstaller][ruby-installer]. To install on Mac OSX, check out our
+[dotfiles][dotfiles] for more instructions.
 
 [ruby-installer]: http://rubyinstaller.org/
-[tokaido]: https://github.com/tokaido/tokaidoapp
+[dotfiles]: https://github.com/appacademy/dotfiles
 
 ### Text Editor
 
