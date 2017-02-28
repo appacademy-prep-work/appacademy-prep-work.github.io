@@ -18,6 +18,9 @@ Unless otherwise stated, you will have the option to code in Ruby, Python, JavaS
 - Bugs will come up.
   - Practice breaking up your code into manageable parts.
   - Be able to interpret the value (and type) of variables at any point in your method.
+- Make sure you can type quickly and accurately. Your time is limited, so don't get bogged down by your keyboard! Here are a few resources for practice:
+  - [typing.io](https://www.typing.io): Free, designed for programmers.
+  - [keybr](http://www.keybr.com/#!practice): General touch typing practice
 
 ## How To Prepare
 
