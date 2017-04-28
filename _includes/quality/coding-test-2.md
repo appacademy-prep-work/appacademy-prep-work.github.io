@@ -13,12 +13,12 @@ will be running them through a web based development environment. Please see the
   * Complete the following lessons 1 - 4
 * [Chris Pine's Learn to Program][chris-pine]
     * Great for beginners; the first eight chapters will be great prep.
-* [AppAcademy: Mini Curriculum][mini-curriculum]
+* [Prepwork for the Second Coding Assessment][second-assessment-prepwork]
 * **[Example practice problems][practice-problems]**
 
 [instructions]: ./instructions
 [setup]: ../technical-interview-1/setup
 [tryruby]: https://www.codeschool.com/courses/try-ruby
 [chris-pine]: https://pine.fm/LearnToProgram/
-[mini-curriculum]: ../../mini-curriculum
+[second-assessment-prepwork]: https://app-academy.gitbooks.io/prep-step-2/content/
 [practice-problems]: ./practice-problems
