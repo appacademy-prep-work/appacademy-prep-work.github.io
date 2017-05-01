@@ -8,12 +8,12 @@ see the [setup ruby instructions][setup] on how to get started.
     * Great for beginners; the first eight chapters will be great prep.
 * Code Academy's [Ruby Course][codecademy]
     * An interactive introduction to Ruby
-* [Prepwork for the Second Coding Assessment][second-assessment-prepwork]
+* [AppAcademy: Mini Curriculum][mini-curriculum]
 * **[Example practice problems][practice-problems]**
 
 [instructions]: ./instructions
 [setup]: ../coding-test-1/setup
 [chris-pine]: https://pine.fm/LearnToProgram/
 [codecademy]: https://www.codecademy.com/learn/ruby
-[second-assessment-prepwork]: https://app-academy.gitbooks.io/prep-step-2/content/
+[mini-curriculum]: ../mini-curriculum
 [practice-problems]: ./practice-problems
