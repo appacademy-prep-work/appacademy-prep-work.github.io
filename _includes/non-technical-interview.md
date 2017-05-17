@@ -1,6 +1,8 @@
 # Next Step: Non-Technical Interview
 
-The non-technical interview will dive deeper into your background, understand your goals and motivations in attending a/A and answer any outstanding questions you may have about the program or admissions process.
+One of the steps that will help prepare you to be a successful software engineer in the job search now is doing well in a non-technical setting. We’d like for you to begin to think about and practice these skills during your non-technical interview with us. Don’t worry if you are the best at this yet, imagine this as practice! 
+
+The purpose of this interview is to dive deeper into your background, understand your goals and motivations in attending a/A and answer any outstanding questions you may have about the program or admissions process. 
 
 ## What to expect
 
@@ -39,11 +41,11 @@ Passion alone will not get you through App Academy. We are a unique bootcamp wit
 
 ### Don't forget about _body language_.
 
-- Speak clearly and confidently.
-- Be engaging: speak expressively and make eye contact.
-- Be positive: act like you're excited to talk to us.
-- Make your delivery fluid, but don't ramble.
-- Relax. Breathe. Smile.
+- Try to speak clearly and confidently.
+- Be engaging: try to speak expressively and make meaningful eye contact.
+- Be positive.
+- Make your delivery as fluid as you can.
+- Relax. Breathe. Smile :)
 
 ## How To Prepare
 
