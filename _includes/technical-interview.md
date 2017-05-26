@@ -26,7 +26,12 @@ Unless otherwise stated, you will have the option to code in Ruby, Python, JavaS
 
 Read our quick [introduction to pair programming][pair-programming].
 
-Practice solving problems and puzzles... _a lot_. This list, while not comprehensive, is a good starting point (and should keep you occupied for quite a while).
+Practice Problems: Here is a link to practice problems which should be similar to those you'll see in the technical interview: [https://app-academy.gitbooks.io/prep-step-two/content/](https://app-academy.gitbooks.io/prep-step-two/content/)
+
+Make sure you can solve all problems up to the "hard" level in 15 minutes or less. Remember, it is not only important to be able to solve these problems, but you must be able to walk through and explain how you approach solving them as well. 
+Add Comment
+
+Practice solving problems and puzzles... _a lot_. Here is a list of additional resources to check out to get some additional practice. This list, while not comprehensive, is a good starting point (and should keep you occupied for quite a while). 
 
 - [Code Wars][code-wars]: A collection of coding challenges rated by difficulty. Once you solve a problem, you can see other programmers' solutions.
 
