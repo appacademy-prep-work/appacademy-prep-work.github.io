@@ -22,6 +22,10 @@ four or five coding problems that measure basic programming
 knowledge. The challenge is timed: you will have up to **45 minutes**
 to complete the challenge.
 
+**Please note:** you may have a
+[repl.it](https://repl.it/languages/ruby) console open to test your code during your
+online coding challeng
+
 ## How difficult is the challenge?
 
 The coding challenge is meant to be accessible to everyone. Many
