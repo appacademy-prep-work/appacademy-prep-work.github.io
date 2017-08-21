@@ -18,7 +18,7 @@ We've broken down the key components of that story for you below. Note that we w
 
 #### How passionate are you about technology?
 
-Obviously, we want to see some evidence that you like to code. People don't make it through our intense, 12-week program without desiring what's on the other side and enjoying the process a little, too. :smile:
+Obviously, we want to see some evidence that you like to code. People don't make it through our intense, 12-week program without desiring what's on the other side and enjoying the process a little, too. :)
 
 1. Why are you interested in tech?
 2. What made you decide to pursue software more seriously?
@@ -68,7 +68,7 @@ Next, look at our [payment plans][payment-plans] and consider which one will bes
 ### Practice your delivery.
 
 - Look up some common interview questions and practice answering them.
-  - Think like a politician. When someone asks you a question, see if you can use it to transition into one of your "talking points". That said, don't think _too much_ like a politician. We expect you to answer our questions, not evade them :wink:
+  - Think like a politician. When someone asks you a question, see if you can use it to transition into one of your "talking points". That said, don't think _too much_ like a politician. We expect you to answer our questions, not evade them ;)
 - Practice out loud.
 - Record yourself.
   - This allows you to see how you are presenting yourself and how concise and engaging your answers are.
