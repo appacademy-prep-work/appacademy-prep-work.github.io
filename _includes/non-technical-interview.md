@@ -1,12 +1,14 @@
 # Next Step: Non-Technical Interview
 
-One of the steps that will help prepare you to be a successful software engineer in the job search now is doing well in a non-technical setting. We’d like for you to begin to think about and practice these skills during your non-technical interview with us. Don’t worry if you are the best at this yet, imagine this as practice! 
+In order to be a successful software engineer, you don't just need technical skills, you need some soft skills too. This is especially true when interviewing for a job. So now it's time to put the code aside and just chat.
 
-The purpose of this interview is to dive deeper into your background, understand your goals and motivations in attending a/A and answer any outstanding questions you may have about the program or admissions process. 
+Doing some preparation for this interview is important. This guide will walk you through what you need to do. The interview lasts 15-20 minutes, but you should probably spend 1-5 hours preparing, depending on how much work you've done on your resume and how familiar you are with interviewing and personal sales.
+
+That said, there's no reason to freak out or try to master it all. We don't expect perfection; we're just looking for some potential. See you in the interview!
 
 ## What to expect
 
-Be prepared to talk about your background: **_what_**, **_when_**, and **_why_**. This includes any schooling you've had as well as jobs and periods when you were not working or were looking for a job.
+Be prepared to talk about your background: **_what_**, **_when_**, and **_why_**. This includes any schooling you've had as well as jobs and periods when you were not working or were looking for a job. Generally, the more recent it is, the more important it is to us, but we might ask you about anything.
 
 **_How_** you present yourself and your background is very important, not just what you've done. You should tell us a story that explains why we should accept you into our program.
 
@@ -15,7 +17,7 @@ When it comes to that story, there are two key components that we would like to 
 - How passionate are you about technology?
 - Why are you a good fit for App Academy?
 
-Be sure to answer both of these questions, including the two aspects of each listed below.
+See the breakdown for each of these below. Note that we will probably _not_ ask you about these things explicitly. You will have to weave these into your answers to the questions we do ask you.
 
 #### How passionate are you about technology?
 
@@ -51,12 +53,15 @@ Passion alone will not get you through App Academy. We are a unique bootcamp wit
 
 ### Create your content.
 
-- List out your background, including dates for everything. Think how best to present it to us.
+- List out your jobs, internships and/or volunteering roles, including dates for everything. Think how best to present it to us.
 - Take some time to think through meaningful answers to the questions above.
+- Come up with a 2-3 minute personal pitch that tells the whole story of why you'd make an awesome App Academy student.
 - Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
 
 ### Practice your delivery.
 
+- Look up some common interview questions and practice answering them.
+  - Think like a politician. When someone asks you a question, see if you can use it to transition into one of your "talking points". That said, don't think _too much_ like a politician. We expect you to answer our questions, not evade them :wink:
 - Practice out loud.
 - Record yourself.
   - This allows you to see how you are presenting yourself and how concise and engaging your answers are.
