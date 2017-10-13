@@ -32,12 +32,12 @@ be ready for class when it starts.
 
 [Test-First Ruby][test-first-ruby] is a great way to test your Ruby
 knowledge. It gives you interactive feedback, so you can find and
-correct mistakes. It will also give you practice running RSpec tests
-(complete level 1 of [CodeSchool's RSpec course][codeschool-rspec] if
-you need a refresher on RSpec).
+correct mistakes. It will also give you practice running RSpec tests 
+(review [BetterSpecs' Introduction to RSpec Guidelines][betterspecs] 
+if you need a refresher on RSpec)
 
 [test-first-ruby]: https://github.com/appacademy/test-first-ruby
-[codeschool-rspec]: http://rspec.codeschool.com/levels/1
+[betterspecs]: http://www.betterspecs.org/
 
 The required exercises are 0-12 and 14. To begin work, go to the
 github page and click to download the ZIP file. Extract the ZIP and
