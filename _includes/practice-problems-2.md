@@ -26,24 +26,24 @@ including the practice problems, in [ZIP format][repo-zip].
 [download-problems]: ../practice-problems-2.zip
 [repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
 [setup]: ../../coding-test-1/setup
-[nearest_larger]: https://repl.it/BrI2/0
-[nearest_larger_sol]: https://repl.it/BrIg/0
-[no_repeats]: https://repl.it/BrI5/0
-[no_repeats_sol]: https://repl.it/BrIh/0
-[letter_count]: https://repl.it/BrI6/0
-[letter_count_sol]: https://repl.it/BrIi/0
-[ordered_vowel_words]: https://repl.it/BrI7/0
-[ordered_vowel_words_sol]: https://repl.it/BrIj/0
-[wonky_coins]: https://repl.it/BrI9/0
-[wonky_coins_sol]: https://repl.it/BrIm/0
-[morse_encode]: https://repl.it/BrIa/0
-[morse_encode_sol]: https://repl.it/BrIn/0
-[word_unscrambler]: https://repl.it/BrIb/0
+[nearest_larger]: https://repl.it/@AppAcademy/NearestLarger
+[nearest_larger_sol]: https://repl.it/@AppAcademy/NearestLargerSolution
+[no_repeats]: https://repl.it/@AppAcademy/NoRepeats
+[no_repeats_sol]: https://repl.it/@AppAcademy/NoRepeatsSolution
+[letter_count]: https://repl.it/@AppAcademy/LetterCount
+[letter_count_sol]: https://repl.it/@AppAcademy/LetterCountSolution
+[ordered_vowel_words]: https://repl.it/@AppAcademy/OrderedVowelWords
+[ordered_vowel_words_sol]: https://repl.it/@AppAcademy/OrderedVowelsSolution
+[wonky_coins]: https://repl.it/@AppAcademy/WonkyCoins
+[wonky_coins_sol]: https://repl.it/@AppAcademy/WonkyCoinsSolution
+[morse_encode]: https://repl.it/@AppAcademy/MorseEncode
+[morse_encode_sol]: https://repl.it/@AppAcademy/MorseEncodeSolution
+[word_unscrambler]: https://repl.it/@AppAcademy/WordUnscrambler
 [word_unscrambler_sol]: https://repl.it/BrIp/0
-[rec_intersection]: https://repl.it/BrIc/0
-[rec_intersection_sol]: https://repl.it/BrIr/0
-[bubble_sort]: https://repl.it/BrId/0
-[bubble_sort_sol]: https://repl.it/BrIu/0
+[rec_intersection]: https://repl.it/@AppAcademy/RectangleIntersection
+[rec_intersection_sol]: https://repl.it/@AppAcademy/RectangleIntersectionSolution
+[bubble_sort]: https://repl.it/@AppAcademy/BubbleSort
+[bubble_sort_sol]: https://repl.it/@AppAcademy/BubbleSortSolution
 
 ## Downloaded Practice Problem Instructions
 
