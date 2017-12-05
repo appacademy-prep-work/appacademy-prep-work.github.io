@@ -66,14 +66,14 @@ Check the [list of available dates][course-dates], and pick your first two prefe
 
 Next, look at our [payment plans][payment-plans] and consider which one will best work with your finances. Keep in mind that you will also need to finance the cost of living in the city while looking for a job. This is a process that could take up to a year beyond your 3-month cohort.
 
-## Checklist
+## Interview Prep Checklist
 
-- [ ] List out your jobs, internships and/or volunteering roles, including dates for everything. Think how best to present it to us.
-- [ ] Put together your personal pitch.
-- [ ] Practice your pitch. Get feedback.
-- [ ] Practice answering other interview questions.
-- [ ] Figure out which [start date][course-dates] and [payment plan][payment-plans] you prefer.
-- [ ] Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
+- List out your jobs, internships and/or volunteering roles, including dates for everything. Think how best to present it to us.
+- Put together your personal pitch.
+- Practice your pitch. Get feedback.
+- Practice answering other interview questions.
+- Figure out which [start date][course-dates] and [payment plan][payment-plans] you prefer.
+- Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
 
 
 [faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
