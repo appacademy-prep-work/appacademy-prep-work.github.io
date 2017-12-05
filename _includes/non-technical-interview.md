@@ -23,11 +23,7 @@ People tend to remember things in **threes**. What are the **three** points you 
 2. Why do you want to become a developer?
 3. How will App Academy help you achieve your goal? (i.e. Why a bootcamp? Why App Academy specifically?)
 
-Don't overcomplicate this. Keep it easy, fun and simple for you and your interviewer.
-
-### Outline
-
-Here's a sample outline to help you get the idea. You should write down your own outline with the details
+Don't overcomplicate this. Keep it easy, fun and simple for you and your interviewer. Here's a sample outline to help you get the idea:
 
 #### Beginning
 
@@ -41,7 +37,7 @@ Here's a sample outline to help you get the idea. You should write down your own
 
 > When I picked up Ruby two years ago, I immediately got hooked. I was playing around on Ruby Monk every day after work. Now I want to learn more because _[... ...]_, and that's when I found App Academy. I really liked how you _[...]_, so I applied.
 
-Notice that each part of the story includes specific details. A few specifics are critical for your listener to fully understand your story. Remember... A story has a beginning, middle and an end (_three_ parts).
+Notice that each part of the story includes specific details. A few specifics are critical for your listener to fully understand your story. Remember, a story has a beginning, middle and an end (_three_ parts).
 
 ### Practice
 
@@ -50,8 +46,9 @@ Having a good Personal Pitch will help your professional development now and dow
 When reviewing your pitch check to see that you...
 
 * keep good flow and don't use too many filler words (um, like, so, and).
-* speak clearly and confidently.
+* stick to the point and stay concise. Don't be afraid to cut content if you're running long. Remember that attention spans are short these days. Your whole pitch should take no more than 3 minutes.
 * don't speak too fast! Remember to _breathe_.
+* speak clearly and confidently.
 * use good speech dynamics: positive energy, tone and volume.
 * speak with your body, not just your voice. This includes eye contact (when appropriate). Remember that people intuitively judge you based on your body language, so it is often _more_ important than what you say.
 
