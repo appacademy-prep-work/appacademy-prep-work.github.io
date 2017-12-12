@@ -49,12 +49,6 @@ Once you feel you have a good grasp of the practice problems, please move onto
 
 [technical-interview-prep-2]: ../../technical-interview-2
 
-## Setup for Downloads
-
-**We strongly recommend you use Cloud9 (c9.io) to do the downloaded practice
-problems.** See our [setup instructions](../setup) for instructions
-on how to use Cloud9.
-
 [intro-to-programming-summary]: ../introduction-to-programming-summary
 [download-problems]: ../practice-problems-1.zip
 [reverse]: https://repl.it/Br5n/0
