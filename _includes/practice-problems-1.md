@@ -46,9 +46,7 @@ Programming Summary][intro-to-programming-summary].
 
 ## Setup for Downloads
 
-**We recommend you use [repl.it][repl] to do the downloaded practice
-problems.** See our [setup instructions](../setup) for instructions
-on how to use repl.it.
+**We recommend you use [repl.it][repl] to do the practice problems.** See our [setup instructions](../setup) for instructions on how to set up your own machine to run these practice problems.
 
 [intro-to-programming-summary]: ../introduction-to-programming-summary
 [download-problems]: ../practice-problems-1.zip
