@@ -15,13 +15,7 @@
 
 [Download][download-problems]
 
-If you choose to download the files, be sure to follow [these instructions][setup] to setup a
-web based ruby development environment. Once installed you will be able to run
-all of the practice problems from there.
-
-Alternatively, you might prefer to setup Ruby on your own computer. If
-you choose to do so, you can download the whole prep-work repository,
-including the practice problems, in [ZIP format][repo-zip].
+If you choose to download the files, be sure to follow [the advanced instructions][setup] to setup your own computer. You can then download the whole prep-work repository, including the practice problems, in [ZIP format][repo-zip].
 
 [download-problems]: ../practice-problems-2.zip
 [repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
@@ -48,9 +42,7 @@ including the practice problems, in [ZIP format][repo-zip].
 ## Downloaded Practice Problem Instructions
 
 First, open a terminal at the
-`prep-work/coding-test-2/practice-problems` directory. If you are using
-Cloud9, the easiest way to do this is to right-click on that directory
-in the file tree and select "Open Terminal Here".
+`prep-work/coding-test-2/practice-problems` directory.
 
 Next, we'll need to install the dependencies. We'll use a gem called
 `bundler` to do this. Once we install bundler, we can use it to install
@@ -69,10 +61,7 @@ you are supposed to do.
 
 You will write your code in the corresponding files in `lib` (e.g.,
 `lib/00_nearest_larger.rb`). I've filled them out with a blank method
-for you. You'll need to write the code to make the specs pass. In
-Cloud9, you'll probably want to keep one text editor panel open to write
-your code, and a terminal panel open to run the specs and read the
-specs' output.
+for you. You'll need to write the code to make the specs pass.
 
 Work through the problems one by one; when you complete writing the
 code, run the spec to check your work. Make sure to look at the

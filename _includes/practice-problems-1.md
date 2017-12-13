@@ -46,9 +46,7 @@ Programming Summary][intro-to-programming-summary].
 
 ## Setup for Downloads
 
-**We strongly recommend you use Cloud9 (c9.io) to do the downloaded practice
-problems.** See our [setup instructions](../setup) for instructions
-on how to use Cloud9.
+**We recommend you use [repl.it][repl] to do the practice problems.** See our [setup instructions](../setup) for instructions on how to set up your own machine to run these practice problems.
 
 [intro-to-programming-summary]: ../introduction-to-programming-summary
 [download-problems]: ../practice-problems-1.zip
@@ -94,3 +92,4 @@ on how to use Cloud9.
 [caesar_cipher_sol]: https://repl.it/@AppAcademy/CaesarCipher
 [num_repeats]: https://repl.it/@AppAcademy/PP1-numrepeats
 [num_repeats_sol]: https://repl.it/@AppAcademy/PP1-numrepeats-Solution
+[repl]: https://repl.it

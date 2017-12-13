@@ -1,40 +1,16 @@
-## Cloud9 (c9.io)
+## REPL.it
 
 It is not required to install Ruby on your own machine before the
 coding challenge. The easiest way to start using Ruby is to use
-**[Cloud9][c9.io]**; it is free.
+**[repl.it](https://repl.it)**; it is free.
 
 Here are the key steps:
 
-0. Go to [c9.io][c9.io] and sign up.
-0. After you've signed up and confirmed your email, create a new workspace.
-0. When creating the workspace, choose "Blank" as the template.
-0. C9.io will provide a text editor for you to edit Ruby code in the
-   browser. You can write Ruby code in the text editor. At the bottom
-   is a console, you can run your code in the console.
-0. Run the following commands in the console. This will download the zipped
-   file and unzip it for you. You should have a folder with the practice
-   problems.
-
-```
-  wget http://prepwork.appacademy.io/coding-test-1/practice-problems-1.zip
-
-  unzip practice-problems-1.zip
-```
-
-Here's a brief screencast that demonstrates the steps above:
-https://www.dropbox.com/s/hpl0qiolvimfzph/c9%20set%20up.mov?dl=0
-
-You should be able to do all the prepwork using c9.io.
-
-[c9.io]: https://www.c9.io/
+0. Go to [repl.it](https://repl.it)
+0. Select Ruby as your programming language
+0. You can choose to sign up for a repl.it account or code anonymously
 
 ## Advanced Setup
-
-You do not have to install Ruby on your own machine to do the
-prep-work. When starting out, you want to spend as much time coding
-and as little time as possible on banal setup tasks. Therefore, we
-highly recommend you use c9.io.
 
 Setting up Ruby on your machine can be a frustrating process. Setting
 up Ruby is not the same as programming; even great Rubyists can be
