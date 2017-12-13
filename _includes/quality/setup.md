@@ -1,38 +1,16 @@
-## Cloud9 (c9.io)
+## REPL.it
 
 It is not required to install Ruby on your own machine before the
-technical interview. The easiest way to start using Ruby is to use
-**[Cloud9][c9.io]**; it is free.
+coding challenge. The easiest way to start using Ruby is to use
+**[repl.it][https://repl.it]**; it is free.
 
 Here are the key steps:
 
-0. Go to [c9.io][c9.io] and sign up.
-0. After you've signed up and confirmed your email, delete the default
-   demo-project.
-0. Next, create a new project. Make sure the custom template is selected.
-0. C9.io will provide a text editor for you to edit Ruby code in the
-   browser. You can write Ruby code in the text editor. At the bottom
-   is a console, you can run your code in the console.
-0. Run the following commands in the console. This will download the zipped
-   file and unzip it for you. You should have a folder with the practice
-   problems.
-
-  ```
-   wget http://prepwork.appacademy.io/coding-test-1/practice-problems-1.zip
-
-   unzip practice-problems-1.zip
-  ```
-
-You should be able to do all the prepwork using c9.io.
-
-[c9.io]: https://www.c9.io/
+0. Go to [repl.it][https://repl.it]
+0. Select Ruby as your programming language
+0. You can choose to sign up for a repl.it account or code anonymously
 
 ## Advanced Setup
-
-You do not have to install Ruby on your own machine to do the
-prep-work. When starting out, you want to spend as much time coding
-and as little time as possible on banal setup tasks. Therefore, we
-highly recommend you use c9.io.
 
 Setting up Ruby on your machine can be a frustrating process. Setting
 up Ruby is not the same as programming; even great Rubyists can be
@@ -40,11 +18,11 @@ frustrated by the hoops they have to jump through to setup their
 machine. Don't be discouraged if it's difficult!
 
 To install Ruby on Windows, we recommend
-[RubyInstaller][ruby-installer]. To install on Mac OSX, look at
-[Tokaido][tokaido].
+[RubyInstaller][ruby-installer]. To install on Mac OSX, check out our
+[dotfiles][dotfiles] for more instructions.
 
 [ruby-installer]: http://rubyinstaller.org/
-[tokaido]: https://github.com/tokaido/tokaidoapp
+[dotfiles]: https://github.com/appacademy/dotfiles
 
 ### Text Editor
 

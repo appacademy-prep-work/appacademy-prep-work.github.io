@@ -15,43 +15,41 @@
 
 [Download][download-problems]
 
-If you choose to download the files, be sure to follow [these instructions][setup] to setup a
-web based ruby development environment. Once installed you will be able to run
-all of the practice problems from there.
-
-Alternatively, you might prefer to setup Ruby on your own computer. If
-you choose to do so, you can download the whole prep-work repository,
-including the practice problems, in [ZIP format][repo-zip].
+If you choose to download the files, be sure to follow [the advanced instructions][setup] to setup your own computer. You can then download the whole prep-work repository, including the practice problems, in [ZIP format][repo-zip].
 
 [download-problems]: ../practice-problems-2.zip
 [repo-zip]: https://github.com/appacademy/prep-work/archive/master.zip
-[setup]: ../../technical-interview-1/setup
-[nearest_larger]: https://repl.it/BrI2/0
-[nearest_larger_sol]: https://repl.it/BrIg/0
-[no_repeats]: https://repl.it/BrI5/0
-[no_repeats_sol]: https://repl.it/BrIh/0
-[letter_count]: https://repl.it/BrI6/0
-[letter_count_sol]: https://repl.it/BrIi/0
-[ordered_vowel_words]: https://repl.it/BrI7/0
-[ordered_vowel_words_sol]: https://repl.it/BrIj/0
-[wonky_coins]: https://repl.it/BrI9/0
-[wonky_coins_sol]: https://repl.it/BrIm/0
-[morse_encode]: https://repl.it/BrIa/0
-[morse_encode_sol]: https://repl.it/BrIn/0
-[word_unscrambler]: https://repl.it/BrIb/0
+[setup]: ../../coding-test-1/setup
+[nearest_larger]: https://repl.it/@AppAcademy/NearestLarger
+[nearest_larger_sol]: https://repl.it/@AppAcademy/NearestLargerSolution
+[no_repeats]: https://repl.it/@AppAcademy/NoRepeats
+[no_repeats_sol]: https://repl.it/@AppAcademy/NoRepeatsSolution
+[letter_count]: https://repl.it/@AppAcademy/LetterCount
+[letter_count_sol]: https://repl.it/@AppAcademy/LetterCountSolution
+[ordered_vowel_words]: https://repl.it/@AppAcademy/OrderedVowelWords
+[ordered_vowel_words_sol]: https://repl.it/@AppAcademy/OrderedVowelsSolution
+[wonky_coins]: https://repl.it/@AppAcademy/WonkyCoins
+[wonky_coins_sol]: https://repl.it/@AppAcademy/WonkyCoinsSolution
+[morse_encode]: https://repl.it/@AppAcademy/MorseEncode
+[morse_encode_sol]: https://repl.it/@AppAcademy/MorseEncodeSolution
+[word_unscrambler]: https://repl.it/@AppAcademy/WordUnscrambler
 [word_unscrambler_sol]: https://repl.it/BrIp/0
-[rec_intersection]: https://repl.it/BrIc/0
-[rec_intersection_sol]: https://repl.it/BrIr/0
-[bubble_sort]: https://repl.it/BrId/0
-[bubble_sort_sol]: https://repl.it/BrIu/0
+[rec_intersection]: https://repl.it/@AppAcademy/RectangleIntersection
+[rec_intersection_sol]: https://repl.it/@AppAcademy/RectangleIntersectionSolution
+[bubble_sort]: https://repl.it/@AppAcademy/BubbleSort
+[bubble_sort_sol]: https://repl.it/@AppAcademy/BubbleSortSolution
 
 ## Downloaded Practice Problem Instructions
 
 First, open a terminal at the
- `prep-work/coding-test-2/practice-problems` directory. If you are using
-Cloud9, the easiest way to do this is to right-click on that directory
-in the file tree and select "Open Terminal Here". Run `bundle install`.
-This will install the Ruby libraries needed to run the specs.
+`prep-work/coding-test-2/practice-problems` directory.
+
+Next, we'll need to install the dependencies. We'll use a gem called
+`bundler` to do this. Once we install bundler, we can use it to install
+all the other Ruby gems we need to run the specs.
+
+    gem install bundler
+    bundle install
 
 You can then run the specs for an individual problem like so:
 
@@ -63,10 +61,7 @@ you are supposed to do.
 
 You will write your code in the corresponding files in `lib` (e.g.,
 `lib/00_nearest_larger.rb`). I've filled them out with a blank method
-for you. You'll need to write the code to make the specs pass. In
-Cloud9, you'll probably want to keep one text editor panel open to write
-your code, and a terminal panel open to run the specs and read the
-specs' output.
+for you. You'll need to write the code to make the specs pass.
 
 Work through the problems one by one; when you complete writing the
 code, run the spec to check your work. Make sure to look at the
