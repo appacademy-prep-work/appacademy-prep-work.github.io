@@ -46,7 +46,7 @@ Programming Summary][intro-to-programming-summary].
 
 ## Setup for Downloads
 
-**We recommend you use [repl.it][https://repl.it] to do the downloaded practice
+**We recommend you use [repl.it][repl] to do the downloaded practice
 problems.** See our [setup instructions](../setup) for instructions
 on how to use repl.it.
 
@@ -94,3 +94,4 @@ on how to use repl.it.
 [caesar_cipher_sol]: https://repl.it/@AppAcademy/CaesarCipher
 [num_repeats]: https://repl.it/@AppAcademy/PP1-numrepeats
 [num_repeats_sol]: https://repl.it/@AppAcademy/PP1-numrepeats-Solution
+[repl]: https://repl.it

@@ -2,11 +2,11 @@
 
 It is not required to install Ruby on your own machine before the
 coding challenge. The easiest way to start using Ruby is to use
-**[repl.it][https://repl.it]**; it is free.
+**[repl.it](https://repl.it)**; it is free.
 
 Here are the key steps:
 
-0. Go to [repl.it][https://repl.it]
+0. Go to [repl.it](https://repl.it)
 0. Select Ruby as your programming language
 0. You can choose to sign up for a repl.it account or code anonymously
 
