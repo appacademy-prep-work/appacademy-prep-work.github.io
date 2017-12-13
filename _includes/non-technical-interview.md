@@ -72,9 +72,9 @@ Next, look at our [payment plans][payment-plans] and consider which one will bes
 - Put together your personal pitch.
 - Practice your pitch. Get feedback.
 - Practice answering other interview questions.
+- Test out your video chat on Skype. Make sure the background looks good and that your face is well-lit and fully visible in the frame.
 - Figure out which [start date][course-dates] and [payment plan][payment-plans] you prefer.
 - Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
-
 
 [faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
 [course-dates]: https://www.appacademy.io/immersive/dates
