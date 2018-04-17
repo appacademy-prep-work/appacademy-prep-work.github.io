@@ -78,4 +78,4 @@ Next, look at our [payment plans][payment-plans] and consider which one will bes
 
 [faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
 [course-dates]: https://www.appacademy.io/immersive/dates
-[payment-plans]: https://s3-us-west-1.amazonaws.com/appacademy.io/New+Tuition+Plans+Image.pdf
+[payment-plans]: https://s3-us-west-1.amazonaws.com/appacademy.io/Tuition+Plans.pdf
