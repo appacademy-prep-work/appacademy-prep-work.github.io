@@ -1,6 +1,6 @@
-# Pair programming
-
 ## What is pair programming?
+
+Start by watching [this introductory video][pairing-video].
 
 In pair programming, two programmers work together at one workstation.
 The **driver** types at the keyboard while the **navigator** directs
@@ -33,8 +33,8 @@ There are a number of reasons we pair:
 2. Every student will learn different things outside of class; pairing
    is a way to bring that knowledge back into the class and share it
    with other students. This is one of the reasons we have new pairs
-  for every project; we want everyone to benefit from everyone else's
-  experience.
+   for every project; we want everyone to benefit from everyone else's
+   experience.
 3. It is important to maintain focus throughout the class day. Working
    solo, it is easy to become distracted or zone out. Working in
    pairs, students help keep each other honest.
@@ -47,19 +47,13 @@ There are a number of reasons we pair:
 
 ### Driving
 
-0. We all have strengths and weaknesses, so feel free to verbally help your navigator flesh out their ideas. Just don't go off typing on your own.
-0. Be patient. Give your partner some time to come up with a plan of action, even if you have an idea of what you want to do next.
+1. We all have strengths and weaknesses, so feel free to verbally help your navigator flesh out their ideas. Just don't go off typing on your own.
+1. Be patient. Give your partner some time to come up with a plan of action, even if you have an idea of what you want to do next.
 
 ### Navigating
 
-0. Be engaged. Your driver is waiting to execute your algorithm, so do your best to lead yourselves in the right direction.
-0. Don't be afraid to ask questions. Navigating doesn't mean you have to know exactly what to do at any given time. Part of what makes pair programming great is integrating the knowledge and tactics of your peers into your own code.
-0. Don't micromanage. Your driver understands how to code - you don't have to tell them that an 'if' statement starts with a condition. You just have to tell them what the condition is.
+1. Be engaged. Your driver is waiting to execute your algorithm, so do your best to lead yourselves in the right direction.
+1. Don't be afraid to ask questions. Navigating doesn't mean you have to know exactly what to do at any given time. Part of what makes pair programming great is integrating the knowledge and tactics of your peers into your own code.
+1. Don't micromanage. Your driver understands how to code - you don't have to tell them that an 'if' statement starts with a condition. You just have to tell them what the condition is.
 
-## Resources
-
-* [On Learning - Ben Orenstein][ben-o-pair-programming]
-* [Breakdown of Pair Programming][pair-programming]
-
-[pair-programming]: https://www.agilealliance.org/glossary/pairing/
-[ben-o-pair-programming]: https://www.youtube.com/watch?v=PYpxx2BFZPo
+[pairing-video]: https://www.youtube.com/watch?v=ET3Q6zNK3Io

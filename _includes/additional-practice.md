@@ -9,12 +9,9 @@ for quite a while).
 
 - [Code Fights][code-fights]: Fun way to practice and test your programming skills against other programming players and bots. Let the fight begin.
 
-- [Code Eval][code-eval]: More coding challenges, broken into three categories by difficulty. Fairly heavy on file input/output, can be difficult to debug.
-
 - [LeetCode][leetcode]: A platform for preparing for technical coding interviews. The code you submit isn't only evaluated for correctness, but speed as well.
 
 [code-wars]: http://codewars.com
 [project-euler]: http://projecteuler.net
 [code-fights]: https://codefights.com/
-[code-eval]: http://codeeval.com
 [leetcode]: https://leetcode.com
