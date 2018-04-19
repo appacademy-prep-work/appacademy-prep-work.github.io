@@ -142,7 +142,7 @@ What is the nth prime number?
 
 # Amicable Numbers
 
-## Adapted from [Project Euler Problem 21][pe-21]
+### Adapted from [Project Euler Problem 21][pe-21]
 Let sum_of_proper_divisors(n) be defined as the sum of proper divisors of n (numbers less than n which divide evenly into n).
 
 If we run a number, num1, through the function, we will get num2. What if we run num2 through the function?
