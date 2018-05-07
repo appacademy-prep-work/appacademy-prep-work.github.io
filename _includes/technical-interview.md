@@ -3,35 +3,27 @@
 In the technical interview, we try to get a feel for how you work through
 problems and communicate about code.
 
-This will include solo timed coding challenges along with some [pair
-programming][pair-programming]. We will be using a webcam to video-chat over
-Skype (plus a browser-based text editor to write code together). There's no
-need to dress up, but you should come well prepared.
+This will include solo timed coding challenges along with some pair
+programming. We will be using a webcam to video-chat over Skype (plus a
+browser-based text editor to write code together). There's no need to dress
+up, but you should come well prepared.
 
 Unless otherwise stated, you will have the option to code in Ruby, Python,
 JavaScript or Java. Don't get discouraged if you fail to complete a problem
 during the interview. We accept partial solutions, and overall logic is more
 important to us than exact syntax.
 
-## Pointers
+Watch these short videos to learn more:
 
-+ We need to know how well you can communicate about programming and your own code.
-  + Talk us through your approach as you work through the problem.
-+ We want to evaluate you on your own work, so the interview is closed-book.
-  + **Ask** your interviewer questions, especially if they're related to syntax or your general approach to a problem. They'll be happy to help!
-+ You won't be able to run your code in any REPL or interpreter.
-  + Take some time to **practice** writing working code without the help of a REPL.
-  + Speed is important. Time yourself to recreate a testing environment.
-+ Bugs will come up.
-  + Practice breaking up your code into manageable parts.
-  + Be able to interpret the value (and type) of variables at any point in your method.
-+ Make sure you can type quickly and accurately. Your time is limited, so
-don't get bogged down by your keyboard! Here are a few resources for
-practice:
-  + [typing.io](https://www.typing.io): Free, designed for programmers.
-  + [keybr](http://www.keybr.com/#!practice): General touch typing practice
+* **[How to Prepare / How Do I Know When I Am Prepared?][how-to-prepare]**
+* **[What to Expect in Your Technical Interview][what-to-expect]**
+* **[What We Look for in a Technical Interview][what-we-look-for]**
 
-## How To Prepare
+[how-to-prepare]: https://vimeo.com/268102365
+[what-we-look-for]: https://vimeo.com/268089805/2a71dddc99
+[what-to-expect]: https://vimeo.com/268437818 
+
+## Technical Interview Prep Work
 
 Work through our [step 2 curriculum][step-two-curriculum]. This material is
 designed to introduce concepts that may come in handy during your technical
@@ -55,12 +47,31 @@ Solve and review others' solutions from [this list of problems][curated-problems
 We have chosen these problems carefully as they are similar in difficulty and
 concepts exercised to our harder interview questions.
 
+## Pointers
+
++ We need to know how well you can communicate about programming and your own code.
+  + Talk us through your approach as you work through the problem.
++ We want to evaluate you on your own work, so the interview is closed-book.
+  + **Ask** your interviewer questions, especially if they're related to syntax or your general approach to a problem. They'll be happy to help!
++ You won't be able to run your code in any REPL or interpreter.
+  + Take some time to **practice** writing working code without the help of a REPL.
+  + Speed is important. Time yourself to recreate a testing environment.
++ Bugs will come up.
+  + Practice breaking up your code into manageable parts.
+  + Be able to interpret the value (and type) of variables at any point in your method.
++ Make sure you can type quickly and accurately. Your time is limited, so
+don't get bogged down by your keyboard! Here are a few resources for
+practice:
+  + [typing.io](https://www.typing.io): Free, designed for programmers.
+  + [keybr](http://www.keybr.com/#!practice): General touch typing practice
+
 ## Additional Practice
 
-Practice solving problems and puzzles... _a lot_. The best thing you can do to
-prepare for a technical interview is to spend many hours solving a great number
-of problems. Here is a list of additional resources to check out to get some
-more practice. You may need to make an account to use some of these services.
+While the prep work provided above should be sufficient, if you feel unprepared
+to take the technical interview we recommend continuing to practice with other
+coding challenges. Here is a list of additional resources to check out to get
+some more practice. You may need to make an account to use some of these
+services.
 
 - [Code Wars][code-wars]: A collection of coding challenges rated by difficulty. Once you solve a problem, you can see other programmers' solutions.
 
@@ -91,5 +102,4 @@ Once you're getting pretty good at solving the problems, add in some extra chall
 [code-wars]: http://codewars.com
 [code-fights]: https://codefights.com/
 [project-euler]: http://projecteuler.net
-[code-eval]: http://codeeval.com
 [leetcode]: https://leetcode.com
