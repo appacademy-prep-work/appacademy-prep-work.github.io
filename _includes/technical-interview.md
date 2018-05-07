@@ -4,14 +4,10 @@ In the technical interview, we try to get a feel for how you work through
 problems and communicate about code.
 
 This will include solo timed coding challenges along with some pair
-programming. We will be using a webcam to video-chat over Skype (plus a
-browser-based text editor to write code together). There's no need to dress
-up, but you should come well prepared.
-
-Unless otherwise stated, you will have the option to code in Ruby, Python,
-JavaScript or Java. Don't get discouraged if you fail to complete a problem
-during the interview. We accept partial solutions, and overall logic is more
-important to us than exact syntax.
+programming. You may use Ruby, JavaScript, Python, or Java. We will be using
+a webcam to video-chat over Skype (plus a browser-based text editor to write
+code together). There's no need to dress up, but you should come well
+prepared.
 
 Watch these short videos to learn more:
 
