@@ -26,7 +26,7 @@ account and send it to us first. Follow these steps:
 1. **[Sign up for your cohort's mailing list][mailing-signup]**
 2. **Request to be added to your cycle's GitHub team**
     * If you haven't already, sign up for an account on [GitHub][github].
-    * Email contact@appacademy.io and request to be added:
+    * Email admissions@appacademy.io and request to be added:
         * **Subject**: GitHub Team Request: (Cycle Start Date)
         * **Body**: I am (full name), and I have been accepted into the
           (cycle start date) cycle. My GitHub username is (username) and

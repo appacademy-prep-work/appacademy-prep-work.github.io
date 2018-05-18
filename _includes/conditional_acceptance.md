@@ -23,7 +23,7 @@ account and send it to us first. Follow these steps:
 
 1. **Request to be added to the GitHub team**
     * If you haven't already, sign up for an account on [GitHub][github].
-    * Email contact@appacademy.io and request to be added:
+    * Email admissions@appacademy.io and request to be added:
         * **Subject**: GitHub Team Request: Conditional Acceptance
         * **Body**: I am (full name), and I have been conditionally accepted
           into the App Academy. My GitHub username is (username) and
