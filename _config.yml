@@ -5,7 +5,7 @@ baseurl: ""
 
 aa-url: http://www.appacademy.io/#p-home
 contact-desc: "Please contact us with any questions or concerns:"
-contact-email: contact@appacademy.io
+contact-email: admissions@appacademy.io
 
 keep_files: ["robots.txt"]
 
