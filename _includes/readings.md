@@ -15,10 +15,10 @@
 
 ### Extra Practice
 
-- [Try Ruby][code-school]
-  - Another interactive tutorial
-- [Why's (Poignant) Guide to Ruby][poignant]
- - Fun and easy-to-read book
+* [Try Ruby][code-school]
+    * Another interactive tutorial
+* [Why's (Poignant) Guide to Ruby][poignant]
+    * Fun and easy-to-read book
 
 [peter-cooper]: http://peterc.org/beginningruby/
 [chris-pine]: https://pine.fm/LearnToProgram/
