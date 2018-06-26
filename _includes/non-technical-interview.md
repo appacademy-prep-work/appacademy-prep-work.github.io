@@ -62,7 +62,7 @@ When answering these, it's useful to think like a politician. When someone asks 
 
 We'll also ask you about your preferred start date and tuition plan. We ask all applicants this at this stage.
 
-Check the list of available dates ([SF][course-dates-sf]|[NY][course-dates-ny]), and pick your first two preferred dates. Bear in mind that cohorts usually fill up 4-6 weeks in advance. If the one you really want isn't available, you should still ask about it as we might be able to fit you in anyway.
+Check the list of available dates ([SF][course-dates-sf], [NY][course-dates-ny]), and pick your first two preferred dates. Bear in mind that cohorts usually fill up 4-6 weeks in advance. If the one you really want isn't available, you should still ask about it as we might be able to fit you in anyway.
 
 Next, look at our [tuition plans][tuition-plans] and consider which one will best work with your finances. Keep in mind that you will also need to finance the cost of living in the city while looking for a job. This is a process that could take up to a year beyond your 3-month cohort.
 
@@ -73,7 +73,7 @@ Next, look at our [tuition plans][tuition-plans] and consider which one will bes
 - Practice your pitch. Get feedback.
 - Practice answering other interview questions.
 - Test out your video chat on Skype. Make sure the background looks good and that your face is well-lit and fully visible in the frame.
-- Figure out which start date ([SF][course-dates-sf]|[NY][course-dates-ny]) and [tuition plan][tuition-plans] you prefer.
+- Figure out which start date ([SF][course-dates-sf], [NY][course-dates-ny]) and [tuition plan][tuition-plans] you prefer.
 - Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
 
 [faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
