@@ -21,27 +21,18 @@ Watch these short videos to learn more:
 
 ## Technical Interview Prep Work
 
-Work through our [step 2 curriculum][step-two-curriculum]. This material is
+Work through our [Introduction to Programming I & II Courses][intro-to-programming]. These courses are
 designed to introduce concepts that may come in handy during your technical
-interview. Included are several practice assessments to give you opportunities
-to practice your new skills.
+interview. Included are many practice problems and video walkthroughs to give you opportunities to practice your new skills. When accessing the courses, be sure to have the correct course selected by clicking "Course Outline" in the top left corner and switching to "Introduction to Programming" if you do not already have it selected.
 
 Read our [introduction to pair programming][pair-programming]. Your interview
-involves pair programming. Come in prepared by already understanding how pairing
-works.
+involves pair programming. Come in prepared by already understanding how pairing works.
 
-Work through our [practice problems][practice-problems]. Make sure you can
-solve all problems including the "hard" level in 15 minutes or less, as the hard
-problems are most similar in difficulty to what you will experience in the
-interview. The list of practice problems covers many of the strategies needed
-to solve the types of questions that you will experience in your interview,
-so make sure you are able to solve them and explain your solution. During
-your interview you will need to not only produce a solution, but you will be
-required to explain your approach in detail as well.
+As you work through the [Introduction to Programming courses][intro-to-programming] courses. Make sure you can
+solve all problems in 15 minutes or less, any problems or concepts from the course is fair game for an interview.  The practice problems cover many of the strategies needed to solve the types of questions that you will 
+experience in your interview, so make sure you are able to solve them and explain your solution. During
+your interview you will need to not only produce a solution, but you will also be required to explain your approach in detail as well. So be sure to watch our video walkthroughs and listen to how we verbalize code clearly.
 
-Solve and review others' solutions from [this list of problems][curated-problems].
-We have chosen these problems carefully as they are similar in difficulty and
-concepts exercised to our harder interview questions.
 
 ## Pointers
 
@@ -61,28 +52,7 @@ practice:
   + [typing.io](https://www.typing.io): Free, designed for programmers.
   + [keybr](http://www.keybr.com/#!practice): General touch typing practice
 
-## Additional Practice
-
-While the prep work provided above should be sufficient, if you feel unprepared
-to take the technical interview we recommend continuing to practice with other
-coding challenges. Here is a list of additional resources to check out to get
-some more practice. You may need to make an account to use some of these
-services.
-
-- [Code Wars][code-wars]: A collection of coding challenges rated by difficulty. Once you solve a problem, you can see other programmers' solutions.
-
-- [Code Fights][code-fights]: Fun way to practice and test your programming skills against other programming players and bots. Let the fight begin.
-
-- [Project Euler][project-euler]: The first few challenges are fairly straightforward and can be brute-forced. As you get further into the challenges, you'll have to be more clever about optimizing your algorithms.
-
-- [LeetCode][leetcode]: A platform for preparing for technical coding interviews. The code you submit isn't only evaluated for correctness, but speed as well.
-
 Keep the following in mind when approaching problems:
-
-- Prompts are often tagged with the topics covered. "Algorithms" and "Data Types" will be helpful, but you will not need to know "Regular Expressions".
-- Aim to spend at most 30 minutes per problem.
-- Take a look at the solution and learn as much as you can from it.
-- Challenge yourself but avoid wasting time if it's not a learning experience.
 
 Once you're getting pretty good at solving the problems, add in some extra challenges:
 
@@ -91,11 +61,5 @@ Once you're getting pretty good at solving the problems, add in some extra chall
 - Try explaining your solution to someone else, even if they don’t know any code. Get feedback from them. See if you can talk them through it _as_ you come up with your solution. Practice until they can easily follow your thoughts.
 - If you have the opportunity, practice [pair programming][pair-programming] with someone who knows how to code.
 
-[practice-problems]: https://app-academy.gitbooks.io/prep-step-two/content/
 [pair-programming]: ../pair-programming
-[step-two-curriculum]: https://app-academy.gitbooks.io/prep-step-2/
-[curated-problems]: ../curated-problems
-[code-wars]: http://codewars.com
-[code-fights]: https://codefights.com/
-[project-euler]: http://projecteuler.net
-[leetcode]: https://leetcode.com
+[intro-to-programming]: https://www.aaonline.io/
