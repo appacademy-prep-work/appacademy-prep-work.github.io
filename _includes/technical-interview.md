@@ -1,13 +1,6 @@
 # Next Step: Technical Interview
 
-In the technical interview, we try to get a feel for how you work through
-problems and communicate about code.
-
-This will include solo timed coding challenges along with some pair
-programming. You may use Ruby, JavaScript, Python, or Java. We will be using
-a webcam to video-chat over Skype (plus a browser-based text editor to write
-code together). There's no need to dress up, but you should come well
-prepared.
+In the technical interview, we try to get a feel for how you work through problems and communicate about code. This will include solo timed coding challenges along with some pair programming. You may use Ruby, JavaScript, Python, or Java.
 
 Watch these short videos to learn more:
 
@@ -17,7 +10,9 @@ Watch these short videos to learn more:
 
 [how-to-prepare]: https://vimeo.com/268102365
 [what-we-look-for]: https://vimeo.com/268089805/2a71dddc99
-[what-to-expect]: https://vimeo.com/268437818 
+[what-to-expect]: https://vimeo.com/268437818
+
+We will be using the CodePair platform which is a browser-based text editor with integrated video chat. Make sure you have a webcam and a good internet connection. It is also best if you use Chrome or Firefox as your browser.
 
 ## Technical Interview Prep Work
 

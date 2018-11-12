@@ -1,6 +1,6 @@
 # Next Step: Non-Technical Interview
 
-In order to be a successful software engineer, you don't just need technical skills, you need some soft skills too. This is especially true when interviewing for a job. So now it's time to put the code aside and just chat. We will do a short non-technical interview with you over Skype. It will be recorded for evaluation and quality assurance.
+In order to be a successful software engineer, you don't just need technical skills, you need some soft skills too. This is especially true when interviewing for a job. So now it's time to put the code aside and just chat. We will do a short non-technical interview with you over [Google Hangouts][hangouts]. It will be recorded for evaluation and quality assurance.
 
 Doing some preparation for this interview is important. This guide will walk you through what you need to do. The interview lasts around 20 minutes, but you should probably spend 2-4 hours preparing, depending on how much work you've done on your resume and how familiar you are with interviewing and personal sales.
 
@@ -72,10 +72,12 @@ Next, look at our [tuition plans][tuition-plans] and consider which one will bes
 - Put together your personal pitch.
 - Practice your pitch. Get feedback.
 - Practice answering other interview questions.
-- Test out your video chat on Skype. Make sure the background looks good and that your face is well-lit and fully visible in the frame.
+- Test out your video chat on [Google Hangouts][hangouts-docs]. Make sure the background looks good and that your face is well-lit and fully visible in the frame.
 - Figure out which start date ([SF][course-dates-sf], [NY][course-dates-ny]) and [tuition plan][tuition-plans] you prefer.
 - Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
 
+[hangouts]: https://hangouts.google.com/
+[hangouts-docs]: https://support.google.com/hangouts
 [faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
 [course-dates-sf]: https://www.appacademy.io/immersive/dates?location=san-francisco
 [course-dates-ny]: https://www.appacademy.io/immersive/dates?location=new-york-city
