@@ -52,8 +52,6 @@ practice:
   + [typing.io](https://www.typing.io): Free, designed for programmers.
   + [keybr](http://www.keybr.com/#!practice): General touch typing practice
 
-Keep the following in mind when approaching problems:
-
 Once you're getting pretty good at solving the problems, add in some extra challenges:
 
 - Mentally step through your code. Practice until you can track every variable at every line without any trouble.
