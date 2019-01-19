@@ -1,10 +1,11 @@
-# Next Step: Non-Technical Interview
+{% capture checklist %}
+{{ checklist }}
+- List out your jobs, internships and/or volunteering roles, including dates for everything. Think how best to present it to us.
+- Put together your personal pitch.
+- Practice your pitch. Get feedback.
+- Practice answering other interview questions.
+{% endcapture %}
 
-In order to be a successful software engineer, you don't just need technical skills, you need some soft skills too. This is especially true when interviewing for a job. So now it's time to put the code aside and just chat. We will do a short non-technical interview with you over [Google Hangouts][hangouts]. It will be recorded for evaluation and quality assurance.
-
-Doing some preparation for this interview is important. This guide will walk you through what you need to do. The interview lasts around 20 minutes, but you should probably spend 2-4 hours preparing, depending on how much work you've done on your resume and how familiar you are with interviewing and personal sales.
-
-That said, there's no reason to freak out or try to master it all. We don't expect perfection; we're just looking for some potential. See you in the interview!
 
 ## The Personal Pitch
 
@@ -57,28 +58,3 @@ When reviewing your pitch check to see that you...
 Your interviewer will ask you some other questions as well. You should spend some time looking up common behavioral interview questions and practice answering them off-the-cuff. It may be helpful to get a friend to play the role of interviewer for you and offer their feedback.
 
 When answering these, it's useful to think like a politician. When someone asks you a question, see if you can use it to transition into one of your "talking points". That said, don't think _too much_ like a politician. We expect you to answer our questions, not evade them ;)
-
-## Pick your Parameters.
-
-We'll also ask you about your preferred start date and tuition plan. We ask all applicants this at this stage.
-
-Check the list of available dates ([SF][course-dates-sf], [NY][course-dates-ny]), and pick your first two preferred dates. Bear in mind that cohorts usually fill up 4-6 weeks in advance. You'll also need to factor in 80 hours of time to complete our online Alpha Course beforehand.
-
-Next, look at our [tuition plans][tuition-plans] and consider which one will best work with your finances. Keep in mind that you will also need to finance the cost of living in the city while looking for a job. This is a process that could take up to a year beyond your 3-month cohort.
-
-## Interview Prep Checklist
-
-- List out your jobs, internships and/or volunteering roles, including dates for everything. Think how best to present it to us.
-- Put together your personal pitch.
-- Practice your pitch. Get feedback.
-- Practice answering other interview questions.
-- Test out your video chat on [Google Hangouts][hangouts-docs]. Make sure the background looks good and that your face is well-lit and fully visible in the frame.
-- Figure out which start date ([SF][course-dates-sf], [NY][course-dates-ny]) and [tuition plan][tuition-plans] you prefer.
-- Look through our [FAQ][faq], and list out any further questions you may have. You can ask your interviewer when the time comes.
-
-[hangouts]: https://hangouts.google.com/
-[hangouts-docs]: https://support.google.com/hangouts
-[faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
-[course-dates-sf]: https://www.appacademy.io/immersive/dates?location=san-francisco
-[course-dates-ny]: https://www.appacademy.io/immersive/dates?location=new-york-city
-[tuition-plans]: https://s3-us-west-1.amazonaws.com/appacademy.io/Tuition+Plans.pdf
