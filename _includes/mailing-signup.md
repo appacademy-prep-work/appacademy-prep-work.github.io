@@ -1,15 +1,16 @@
-Once you've been formally sent an offer of acceptance, please sign up
-for your cycle's mailing list. **Please don't sign up until you've
-submitted the initial deposit AND signed the Docusign contracts.**
+Please sign up for your cohort's mailing list.
  
 
-* [2018-09-24 (NY)][2018-09-24-ny]
-* [2018-10-22 (SF)][2018-10-22-sf]
-* [2018-11-26 (NY)][2018-11-26-ny]
-* [2019-01-07 (SF)][2019-01-07-sf]
+* [2019-03-11 (SF)][2019-03-11-sf]
+* [2019-03-18 (Online)][2019-03-18-online]
+* [2019-04-08 (NY)][2019-04-08-ny]
+* [2019-05-13 (SF)][2019-05-13-sf]
+* [2019-06-10 (NY)][2019-06-10-ny]
+* [2019-07-15 (SF)][2019-07-15-sf]
 
 
-[2018-09-24-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2018-09-24-ny/
-[2018-10-22-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2018-10-22-sf/
-[2018-11-26-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2018-11-26-ny/
-[2019-01-07-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2019-01-07-sf/
+[2019-03-11-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2019-03-11-sf/
+[2019-03-18-online]: https://groups.google.com/a/appacademy.io/forum/#!forum/2019-03-18-online/
+[2019-04-08-ny]: https://groups.google.com/a/appacademy.io/forum/#!forum/2019-04-08-ny/
+[2019-06-13-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2019-01-07-sf/
+[2019-07-15-sf]: https://groups.google.com/a/appacademy.io/forum/#!forum/2019-07-15-sf/
