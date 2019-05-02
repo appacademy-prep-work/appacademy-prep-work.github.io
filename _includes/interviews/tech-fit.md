@@ -6,6 +6,10 @@ Your next step will be an interview that contains both technical and behavioral 
 
 {% include interviews/partials/codepair.md %}
 
+{% include interviews/partials/codepair-swe.md %}
+
+### Hangouts
+
 {% include interviews/partials/hangouts.md %}
 
 Doing some preparation for this interview is important. This guide will walk you through what you need to do. The interview lasts around 50 minutes, but you should probably spend 2-10 hours preparing, depending on how strong your coding background is, how much work you've done on your resume and how familiar you are with interviewing and personal sales.
