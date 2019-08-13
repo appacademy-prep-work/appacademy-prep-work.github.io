@@ -7,7 +7,7 @@
 
 We'll also ask you about your preferred start date and tuition plan. We ask all applicants this at this stage.
 
-Check the list of available dates ([SF][course-dates-sf], [NY][course-dates-ny], [Online][course-dates-online]), and pick your first two preferred dates. Bear in mind that cohorts usually fill up 4-6 weeks in advance. You'll also need to factor in 80 hours of time to complete our online Alpha Course beforehand.
+Check the list of available dates ([SF][course-dates-sf], [NY][course-dates-ny], [Online][course-dates-online]), and pick your first two preferred dates. Bear in mind that cohorts usually fill up 4-6 weeks in advance.
 
 Next, look at our tuition plans ([In Person][in-person-tuition-plans], [Online][online-tuition-plans]) and consider which one will best work with your finances. If you do an in-person cohort, keep in mind that you will also need to finance the cost of living in the city while looking for a job. This is a process that could take up to a year beyond your 3-month cohort.
 
