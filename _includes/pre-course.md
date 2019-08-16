@@ -23,7 +23,7 @@ There are parts of the prep work that you can do immediately, but in
 order to access the full curriculum, you'll need to create a Github
 account and send it to us first. Follow these steps:
 
-1. **[Sign up for your cohort's mailing list][mailing-signup]**
+1. Accept the Slack invite to your cohort’s mailing list which you will receive in a few days
 2. **Request to be added to your cycle's GitHub team**
     * If you haven't already, sign up for an account on [GitHub][github].
     * Email admissions@appacademy.io and request to be added:
@@ -50,6 +50,5 @@ account and send it to us first. Follow these steps:
 [extra-resources]: ./extra-resources
 [gear]: ./gear
 [github]: https://github.com
-[mailing-signup]: ./mailing-signup
 [pre-course-readings]: ./readings
 [typing-practice]: ./typing
