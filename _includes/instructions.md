@@ -14,7 +14,7 @@ your best. There is no hurry. You may take it whenever you like.
 
 We have designed the test in Ruby, which is the language of Rails.
 
-You may also answer the challenge in Python, JavaScript or Java if you choose.
+You may also answer the challenge in Python or JavaScript if you choose.
 If you do not know either of the languages mentioned, please complete the
 challenge in Ruby.
 
