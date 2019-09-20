@@ -2,8 +2,7 @@ You should first read (or at least skim) the Introduction to
 Programming pages. Here's a quick recap of the various concepts you'll
 want to be familiar with after reading.
 
-Make sure to test your skills with the
-[practice-problems][practice-problems] before starting the coding
+Make sure to test your skills on [App Academy Online](https://open.appacademy.io/) before starting the coding
 challenge!
 
 [practice-problems]: ../practice-problems
