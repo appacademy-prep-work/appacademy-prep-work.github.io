@@ -1,6 +1,6 @@
 # Next Step: Technical Interview
 
-In the technical interview, we try to get a feel for how you work through problems and communicate about code. This will include solo timed coding challenges along with some pair programming. You may use Ruby, JavaScript, Python, or Java.
+In the technical interview, we try to get a feel for how you work through problems and communicate about code. This will include solo timed coding challenges along with some pair programming. You may use Ruby, JavaScript, or Python.
 
 Watch these short videos to learn more:
 
