@@ -8,7 +8,7 @@ Your next step will be an interview that contains both technical and behavioral 
 
 {% include interviews/partials/codepair-swe.md %}
 
-### Hangouts
+### Zoom
 
 {% include interviews/partials/hangouts.md %}
 
