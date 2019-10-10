@@ -2,8 +2,8 @@
 
 ## Overview
 The non-technical interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via **[Zoom](www.zoom.us)**, requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
-
-
+ 
+ 
 ## What We are Looking For
 **Professional presentation skills**: We know that many of our candidates are fairly new to the interview process, so we do not expect perfection. We are looking for candidates who are prepared for the interview, present themselves in a positive light, and can speak to their accomplishments and goals. Be sure to carefully review the tips on this page, and practice with the example questions provided.
 
@@ -14,8 +14,8 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 **Enthusiasm**: Enrolling in App Academy is a huge commitment. We want to know WHY you want to become a software engineer and WHY App Academy is the best program to help you achieve your goals. 
 
 **Teamwork**: Much of a typical day at App Academy involves pair programming, and becoming a great software engineer requires the ability to collaborate, communicate, and problem solve with other people.
-
-
+ 
+ 
 ## How to prepare
 1. Practice your personal pitch. This is a 2-3 minute spiel about your educational and professional background, why you want to become a software engineer, and why App Academy is a good fit for you.
 2. Practice the example questions below and familiarize yourself with the confirmation questions. 
@@ -29,7 +29,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 * Be mindful of filler words (um, like, so, and). It’s okay to take pauses as you are formulating thoughts.
 * Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.
 * Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
- 
+  
   
 ## Example questions
 We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
@@ -40,8 +40,8 @@ We do not provide the interview questions ahead of time so that you can provide 
 * What obstacles have you overcome in your life? 
 * What is an example that demonstrates your drive to succeed?
 * How have you worked with diverse groups of people? 
- 
   
+   
 ## Confirmation questions
 Be prepared to answer all of these questions.
 * What is your preferred start date? *This does not affect your admissions decision.*
@@ -49,5 +49,5 @@ Be prepared to answer all of these questions.
 * Are you in a financial position where you can support yourself without any employment for the duration of the program? 
 * Do you need an admissions decision by a certain date? *We aim to review all interviews within 3 business dates, and will try to expedite the review process if you require a response sooner.*
  
-
+ 
 {% include interviews/partials/checklist.md %}
