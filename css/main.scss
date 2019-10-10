@@ -73,5 +73,12 @@ footer.site-footer {
 
 .task-list {
   list-style: none;
-  padding-left: 0;
+  margin-left: 0;
+}
+
+.task-list-item {
+  input[type='checkbox'] {
+    margin-left: 10px;
+    margin-right: 8px;
+  }
 }
