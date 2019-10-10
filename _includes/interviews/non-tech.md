@@ -43,10 +43,10 @@ We do not provide the interview questions ahead of time so that you can provide 
 
 ### Confirmation questions
 Be prepared to answer all of these questions.
-* What is your preferred start date? This does not affect your admissions decision.
-* Which tuition plan would you prefer? This does not affect your admissions decision.
+* What is your preferred start date? *This does not affect your admissions decision.*
+* Which tuition plan would you prefer? *This does not affect your admissions decision.*
 * Are you in a financial position where you can support yourself without any employment for the duration of the program? 
-* Do you need an admissions decision by a certain date? We aim to review all interviews within 3 business dates, and will try to expedite the review process if you require a response sooner.
+* Do you need an admissions decision by a certain date? *We aim to review all interviews within 3 business dates, and will try to expedite the review process if you require a response sooner.*
 
 
 {% include interviews/partials/checklist.md %}
