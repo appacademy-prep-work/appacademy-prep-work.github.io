@@ -2,20 +2,20 @@
 
 ### In the days leading up to your interview
 
-[-]  Download and test out video chat on [Zoom][zoom]. 
-- Practice a 2-3 minute pitch about your background, your career goals, and why App Academy is the best fit for you.
-- Practice the example interview questions and review the confirmation questions.
-- Figure out which start date ([SF][sf], [NY][ny], [Online][online]) and tuition plan ([In Person][in-person-tuition], [Online][online-tuition]) you prefer. These questions are for administrative purposes. Your answers will not affect your admissions decision.
-- Look through the [FAQ][faq] and list out any further questions you may have. You can ask your interviewer when the time comes.
-- Take a photo or get a copy of your high school (secondary school) diploma or transcript. If you are accepted, you will be required to email this before you enroll.
+* [ ] Download and test out video chat on [Zoom][zoom]. 
+* [ ] Practice a 2-3 minute pitch about your background, your career goals, and why App Academy is the best fit for you.
+* [ ] Practice the example interview questions and review the confirmation questions.
+* [ ] Figure out which start date ([SF][sf], [NY][ny], [Online][online]) and tuition plan ([In Person][in-person-tuition], [Online][online-tuition]) you prefer. These questions are for administrative purposes. Your answers will not affect your admissions decision.
+* [ ] Look through the [FAQ][faq] and list out any further questions you may have. You can ask your interviewer when the time comes.
+* [ ] Take a photo or get a copy of your high school (secondary school) diploma or transcript. If you are accepted, you will be required to email this before you enroll.
 
 
 ### The day of your interview:
-{{ checklist }}
-- Make sure that your webcam is functional and your internet connection is steady.
-- Check that the background of your video looks clean and that your face is well-lit in the frame.
-- Check the email you input on your application for a link to the interview at your scheduled interview time.
-- Take a deep breath and remember to smile. We are excited to get to know you better.
+
+* [ ] Make sure that your webcam is functional and your internet connection is steady.
+* [ ] Check that the background of your video looks clean and that your face is well-lit in the frame.
+* [ ] Check the email you input on your application for a link to the interview at your scheduled interview time.
+* [ ] Take a deep breath and remember to smile. We are excited to get to know you better.
 
 [zoom]: www.zoom.us
 [sf]: https://www.appacademy.io/immersive/dates?location=san-francisco
