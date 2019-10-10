@@ -21,7 +21,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 2. Practice the example questions below and familiarize yourself with the confirmation questions. 
 3. Consider recording your personal pitch and reviewing the video, so that you can see what aspects of your presentation you might need to work on. Your body language is equally as important as your choice of words. 
 4. Consider asking friends or family to do a mock interview with you, using the example questions provided below, and give you feedback. 
-
+⋅⋅⋅
 
 ### Interview Tips
 * Stick to 3-minutes for the personal pitch. You do not need to give a play-by-play of your career. Cover the general trajectory of your background, and your interviewer will ask follow-up questions if anything is unclear.
@@ -29,7 +29,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 * Be mindful of filler words (um, like, so, and). It’s okay to take pauses as you are formulating thoughts.
 * Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.
 * Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
-
+⋅⋅⋅
 
 ### Example questions
 We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
@@ -40,6 +40,7 @@ We do not provide the interview questions ahead of time so that you can provide 
 * What obstacles have you overcome in your life? 
 * What is an example that demonstrates your drive to succeed?
 * How have you worked with diverse groups of people? 
+⋅⋅⋅
 
 ### Confirmation questions
 Be prepared to answer all of these questions.
