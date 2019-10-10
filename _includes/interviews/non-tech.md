@@ -29,7 +29,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 * Be mindful of filler words (um, like, so, and). It’s okay to take pauses as you are formulating thoughts.
 * Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.
 * Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
-
+ 
   
 ## Example questions
 We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
@@ -40,14 +40,14 @@ We do not provide the interview questions ahead of time so that you can provide 
 * What obstacles have you overcome in your life? 
 * What is an example that demonstrates your drive to succeed?
 * How have you worked with diverse groups of people? 
-
  
+  
 ## Confirmation questions
 Be prepared to answer all of these questions.
 * What is your preferred start date? *This does not affect your admissions decision.*
 * Which tuition plan would you prefer? *This does not affect your admissions decision.*
 * Are you in a financial position where you can support yourself without any employment for the duration of the program? 
 * Do you need an admissions decision by a certain date? *We aim to review all interviews within 3 business dates, and will try to expedite the review process if you require a response sooner.*
-
+ 
 
 {% include interviews/partials/checklist.md %}
