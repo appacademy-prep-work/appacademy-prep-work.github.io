@@ -77,8 +77,11 @@ footer.site-footer {
 }
 
 .task-list-item {
+  position: relative;
+  margin-left: 27px;
   input[type='checkbox'] {
-    margin-left: 10px;
-    margin-right: 8px;
+    position: absolute;
+    left: -23px;
+    top: 3px;
   }
 }
