@@ -22,7 +22,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 3. Consider recording your personal pitch and reviewing the video, so that you can see what aspects of your presentation you might need to work on. Your body language is equally as important as your choice of words. 
 4. Consider asking friends or family to do a mock interview with you, using the example questions provided below, and give you feedback. 
 
-
+<br/>
 ## Interview Tips
 * Stick to 3-minutes for the personal pitch. You do not need to give a play-by-play of your career. Cover the general trajectory of your background, and your interviewer will ask follow-up questions if anything is unclear.
 * Cover why you are interested in software engineering and App Academy.
@@ -30,7 +30,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 * Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.
 * Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
 
-
+<br/>
 ## Example questions
 We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
 * What is your background and what are your career goals?
@@ -41,7 +41,7 @@ We do not provide the interview questions ahead of time so that you can provide 
 * What is an example that demonstrates your drive to succeed?
 * How have you worked with diverse groups of people? 
 
-
+<br/>
 ## Confirmation questions
 Be prepared to answer all of these questions.
 * What is your preferred start date? *This does not affect your admissions decision.*
