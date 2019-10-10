@@ -1,10 +1,10 @@
 # Next Step: Non-Technical Interview
 
-## Overview
+# Overview
 The non-technical interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via **[Zoom](www.zoom.us)**, requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
 
 
-## What We are Looking For
+# What We are Looking For
 **Professional presentation skills**: We know that many of our candidates are fairly new to the interview process, so we do not expect perfection. We are looking for candidates who are prepared for the interview, present themselves in a positive light, and can speak to their accomplishments and goals. Be sure to carefully review the tips on this page, and practice with the example questions provided.
 
 **Professional English language proficiency**: We want to ensure that our students have the English language proficiency needed to keep up with the program’s rigorous pace and communicate well with others in the cohort, especially during pair programming.
@@ -16,15 +16,13 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 **Teamwork**: Much of a typical day at App Academy involves pair programming, and becoming a great software engineer requires the ability to collaborate, communicate, and problem solve with other people.
 
 
-## How to prepare
+# How to prepare
 1. Practice your personal pitch. This is a 2-3 minute spiel about your educational and professional background, why you want to become a software engineer, and why App Academy is a good fit for you.
 2. Practice the example questions below and familiarize yourself with the confirmation questions. 
 3. Consider recording your personal pitch and reviewing the video, so that you can see what aspects of your presentation you might need to work on. Your body language is equally as important as your choice of words. 
 4. Consider asking friends or family to do a mock interview with you, using the example questions provided below, and give you feedback. 
 
-
-
-### Interview Tips
+## Interview Tips
 * Stick to 3-minutes for the personal pitch. You do not need to give a play-by-play of your career. Cover the general trajectory of your background, and your interviewer will ask follow-up questions if anything is unclear.
 * Cover why you are interested in software engineering and App Academy.
 * Be mindful of filler words (um, like, so, and). It’s okay to take pauses as you are formulating thoughts.
@@ -32,10 +30,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 * Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
 
 
-
-
-
-### Example questions
+## Example questions
 We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
 * What is your background and what are your career goals?
 * Why is App Academy the right fit for you?
@@ -46,8 +41,7 @@ We do not provide the interview questions ahead of time so that you can provide 
 * How have you worked with diverse groups of people? 
 
 
-
-### Confirmation questions
+## Confirmation questions
 Be prepared to answer all of these questions.
 * What is your preferred start date? *This does not affect your admissions decision.*
 * Which tuition plan would you prefer? *This does not affect your admissions decision.*
