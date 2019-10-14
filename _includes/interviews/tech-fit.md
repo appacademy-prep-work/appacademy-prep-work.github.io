@@ -52,11 +52,11 @@ Be prepared to answer all of these questions.
 * Do you need an admissions decision by a certain date? *We aim to review all interviews within 3 business day, and will try to expedite the review process if you require a response sooner.*
  
 
+{% include interviews/partials/aao.md %}
+
 {% include interviews/partials/codepair.md %}
 
 {% include interviews/partials/codepair-swe.md %}
-
-{% include interviews/partials/aao.md %}
 
 {% include interviews/partials/pairing.md %}
 
