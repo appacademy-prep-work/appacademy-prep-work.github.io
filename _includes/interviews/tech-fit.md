@@ -44,7 +44,7 @@ We do not provide the interview questions ahead of time so that you can provide 
 * How have you worked with diverse groups of people? 
   
    
-## Confirmation questions
+### Confirmation questions
 Be prepared to answer all of these questions.
 * What is your preferred start date? *This does not affect your admissions decision.*
 * Which tuition plan would you prefer? *This does not affect your admissions decision.*
