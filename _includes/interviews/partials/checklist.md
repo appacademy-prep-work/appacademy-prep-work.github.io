@@ -24,4 +24,4 @@
 [online]: https://www.appacademy.io/immersive/dates?location=online
 [in-person-tuition]: https://s3-us-west-1.amazonaws.com/appacademy.io/Tuition+Plans.pdf
 [online-tuition]: https://appacademy.zendesk.com/hc/en-us/articles/360010568013-What-is-the-cost-of-the-Full-Time-Plan-What-payment-options-do-I-have-
-[faq]: https://appacademy.zendesk.com/hc/en-us/categories/202737947-Full-Time-Immersive
+[faq]: https://appacademy.zendesk.com/hc/en-us
