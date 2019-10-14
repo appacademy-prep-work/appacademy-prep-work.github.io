@@ -37,3 +37,5 @@ The foundation of pair programming is communication. Both partners should always
 
 
 [pairing-video]: https://www.youtube.com/watch?v=ET3Q6zNK3Io
+[aao-ruby-1]: https://open.appacademy.io/learn/courses/intro-to-ruby-programming-i/
+[aao-ruby-2]: https://open.appacademy.io/learn/courses/intro-to-ruby-programming-ii
