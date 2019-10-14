@@ -33,7 +33,7 @@ The foundation of pair programming is communication. Both partners should always
 * [ ] Practice tracking every variable at throughout your code.
 * [ ] If you have the opportunity, practice pair-programming with someone who knows how to code.
 * [ ] Review the [pairing video] [pairing-video].
-* [ ] Download Chrome or Firefox
+* [ ] If you do not have one of them already, download Chrome or Firefox.
 
 
 [pairing-video]: https://www.youtube.com/watch?v=ET3Q6zNK3Io
