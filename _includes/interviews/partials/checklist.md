@@ -1,4 +1,4 @@
-## Interview Prep Checklist
+## Non-Tech Interview Checklist
 
 ### In the days leading up to your interview
 
