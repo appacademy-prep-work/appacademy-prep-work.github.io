@@ -14,8 +14,8 @@ Watch these short videos to learn more:
 
 {% include interviews/partials/aao.md %}
 
-{% include interviews/partials/pairing.md %}
-
 {% include interviews/partials/codepair.md %}
 
 {% include interviews/partials/codepair-swe.md %}
+
+{% include interviews/partials/pairing.md %}
