@@ -52,4 +52,4 @@ Be prepared to answer all of these questions.
  
 {% include interviews/partials/checklist.md %}
 
-[zoom]: www.zoom.us
+[zoom]: https://www.zoom.us
