@@ -18,7 +18,7 @@
 - [ ] Check the email you input on your application for a link at your scheduled interview time.
 - [ ] Take a deep breath and remember to smile. We are excited to get to know you better.
 
-[zoom]: www.zoom.us
+[zoom]: https://www.zoom.us
 [sf]: https://www.appacademy.io/immersive/dates?location=san-francisco
 [ny]: https://www.appacademy.io/immersive/dates?location=new-york-city
 [online]: https://www.appacademy.io/immersive/dates?location=online
