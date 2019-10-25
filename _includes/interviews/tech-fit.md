@@ -1,6 +1,6 @@
 # Next Step: Interview
 
-The interview is an opportunity to learn more about you. We want to see that you have the non-technical skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via **[Zoom](www.zoom.us)**, requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. 
+The interview is an opportunity to learn more about you. We want to see that you have the non-technical skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via **[Zoom][zoom]**, requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. 
 
 Additionally, we want to learn about how you work through problems and communicate about code. This will include one solo and one pair programming coding prompt. You may use Ruby, JavaScript, or Python. 
 
@@ -61,3 +61,5 @@ Be prepared to answer all of these questions.
 {% include interviews/partials/pairing.md %}
 
 {% include interviews/partials/checklist.md %}
+
+[zoom]: www.zoom.us
