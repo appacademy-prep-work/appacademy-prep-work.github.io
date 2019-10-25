@@ -1,7 +1,7 @@
 # Next Step: Non-Technical Interview
 
 ## Overview
-The non-technical interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via **[Zoom](www.zoom.us)**, requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
+The non-technical interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via **[Zoom][zoom]**, requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
  
  
 ## What We are Looking For
@@ -51,3 +51,5 @@ Be prepared to answer all of these questions.
  
  
 {% include interviews/partials/checklist.md %}
+
+[zoom]: www.zoom.us
