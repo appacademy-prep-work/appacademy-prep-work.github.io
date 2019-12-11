@@ -1,7 +1,7 @@
-# Next Step: Non-Technical Interview
+# Next Step: Fit Interview
 
 ## Overview
-The non-technical interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via [Zoom][zoom], requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
+The fit interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via [Zoom][zoom], requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
  
  
 ## What We are Looking For
@@ -9,7 +9,7 @@ The non-technical interview is an opportunity to learn more about you. We are lo
 
 **Professional English language proficiency**: We want to ensure that our students have the English language proficiency needed to keep up with the program’s rigorous pace and communicate well with others in the cohort, especially during pair programming.
 
-**Resilience and work ethic**: Most students put in 70-100 hours a week for the duration of the program. In the non-technical interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress.
+**Resilience and work ethic**: Most students put in 50-60 hours a week for the online program, and 80-100 hours a week for in-person program. In the fit interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress.
 
 **Enthusiasm**: Enrolling in App Academy is a huge commitment. We want to know WHY you want to become a software engineer and WHY App Academy is the best program to help you achieve your goals. 
 
@@ -43,7 +43,9 @@ We do not provide the interview questions ahead of time so that you can provide 
   
    
 ## Confirmation questions
-Be prepared to answer all of these questions.
+For online candidates, your Admissions Specialist will confirm all of these answers, so they will not be asked in your interview.
+
+For in-person candidates, prepare to answer all of these questions.
 * What is your preferred start date? *This does not affect your admissions decision.*
 * Which tuition plan would you prefer? *This does not affect your admissions decision.*
 * It takes students an average of 3-6 months to find a job after the curriculum ends. However, keep in mind that it could take up to 12 months. Are you in a financial position where you could support yourself without any employment for that entire period?
