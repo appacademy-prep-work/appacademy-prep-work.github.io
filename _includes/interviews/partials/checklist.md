@@ -14,6 +14,7 @@
 ### The day of your interview:
 
 - [ ] Make sure that your webcam is functional and your internet connection is steady.
+- [ ] Consider wearing professional clothing during the interview. This is not required, but it gives a strong first-impression that you are taking the interview seriously.
 - [ ] Check that the background of your video looks clean and that your face is well-lit in the frame.
 - [ ] Check the email you input on your application for a link at your scheduled interview time.
 - [ ] Take a deep breath and remember to smile. We are excited to get to know you better.
