@@ -24,12 +24,31 @@ The fit interview is an opportunity to learn more about you. We are looking for 
  
  
 ## Interview Tips
-* Stick to 3-minutes for the personal pitch. You do not need to give a play-by-play of your career. Cover the general trajectory of your background, and your interviewer will ask follow-up questions if anything is unclear.
-* Cover why you are interested in software engineering and App Academy.
+* Prepare for the interview using the provided materials.
+* Practice a short (<3 minutes) personal pitch. Cover the general trajectory of your education, career, and coding background.
+* Demonstrate your enthusiasm for software engineering.
+* Articulate why App Academy is the right fit for you.
+* Share specific, relevant answers to the questions presented.
+* Emphasize how your experiences have prepared you for the rigors of App Academy. We want to know what strategies you have developed to manage your time and stress.
 * Be mindful of filler words (um, like, so, and). It’s okay to take pauses as you are formulating thoughts.
+* Be mindful of what’s in view in the background of your video. 
 * Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.
 * Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
-  
+* Remember that we want to see how you would present yourself in a professional interview setting.
+
+ ## What Not to Do
+* Leave the interviewer confused about why you are interested in App Academy and software engineering.
+* Ramble or go on long tangents.
+* Mumble, slouch, and avoid eye contact.
+* Give vague, generic answers that don’t speak to your specific experiences.
+* Overshare personal information.
+* Stare ahead stone-faced and unsmiling.
+* Talk negatively about yourself or others.
+* Frame your success in terms of being better than others.
+* Downplay your accomplishments.
+* Take the interview in a dark room, your car, a cafe, or a chaotic environment.
+* Vape, smoke, or eat.
+
   
 ## Example questions
 We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
