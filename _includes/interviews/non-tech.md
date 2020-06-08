@@ -36,7 +36,7 @@ The fit interview is an opportunity to learn more about you. We are looking for 
 * Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
 * Remember that we want to see how you would present yourself in a professional interview setting.
 
- ## What Not to Do
+## What Not to Do
 * Leave the interviewer confused about why you are interested in App Academy and software engineering.
 * Ramble or go on long tangents.
 * Mumble, slouch, and avoid eye contact.
