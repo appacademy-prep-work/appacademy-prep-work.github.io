@@ -59,16 +59,6 @@ We do not provide the interview questions ahead of time so that you can provide 
 * What obstacles have you overcome in your life? 
 * What is an example that demonstrates your drive to succeed?
 * How have you worked with diverse groups of people? 
-  
-   
-## Confirmation questions
-For online candidates, your Admissions Specialist will confirm all of these answers, so they will not be asked in your interview.
-
-For in-person candidates, prepare to answer all of these questions.
-* What is your preferred start date? *This does not affect your admissions decision.*
-* Which tuition plan would you prefer? *This does not affect your admissions decision.*
-* It takes students an average of 3-6 months to find a job after the curriculum ends. However, keep in mind that it could take up to 12 months. Are you in a financial position where you could support yourself without any employment for that entire period?
-* Do you need an admissions decision by a certain date? *We aim to review all interviews within 3 business days, and will try to expedite the review process if you require a response sooner.*
  
  
 {% include interviews/partials/checklist.md %}
