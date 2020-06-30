@@ -44,11 +44,9 @@ account and send it to us first. Follow these steps:
   We believe that you'll make an awesome developer. **Prove us right!**
 
 * [Extra resources and documents][extra-resources]
-* **[Gear Recommendations][gear]**
 
 [appacademy-prep]: https://github.com/appacademy/appacademy-prep
 [extra-resources]: ./extra-resources
-[gear]: ./gear
 [github]: https://github.com
 [pre-course-readings]: ./readings
 [typing-practice]: ./typing
