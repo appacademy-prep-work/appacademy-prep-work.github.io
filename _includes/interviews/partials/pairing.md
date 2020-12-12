@@ -31,7 +31,7 @@ The foundation of pair programming is communication. Both partners should always
 * [ ] Practice talking through your solutions the way we do in the video walkthroughs. Try explaining your solution to someone else, even if they don’t know any code. Get feedback from them.
 * [ ] Practice debugging. You will probably run into bugs during the interview and your ability to diagnose and fix them on the fly says a lot about your coding ability.
 * [ ] Practice tracking every variable at throughout your code.
-* [ ] Walk through the [Am I Ready For My App Academy Technical Interview? Self-Assessment][tech-self-assessment] to determine whether you are ready to schedule your Technical Interview.**
+* [ ] Walk through the [Am I Ready For My App Academy Technical Interview? Self-Assessment][tech-self-assessment] to determine whether you are ready to schedule your Technical Interview.
 * [ ] If you have the opportunity, practice pair-programming with someone who knows how to code.
 * [ ] Review the [pairing video] [pairing-video].
 * [ ] If you do not have one of them already, download Chrome or Firefox.
