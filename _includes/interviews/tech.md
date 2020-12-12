@@ -5,7 +5,6 @@ In the technical interview, we try to get a feel for how you work through proble
 Review these resources to learn more:
 
 * **[Am I Ready For My App Academy Technical Interview? Self-Assessment][tech-self-assessment]**
-
 * **[How to Prepare / How Do I Know When I Am Prepared?][how-to-prepare]**
 * **[What to Expect in Your Technical Interview][what-to-expect]**
 * **[What We Look for in a Technical Interview][what-we-look-for]**
