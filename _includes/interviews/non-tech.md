@@ -9,11 +9,13 @@ The fit interview is an opportunity to learn more about you. We are looking for 
 
 **Professional English language proficiency**: We want to ensure that our students have the English language proficiency needed to keep up with the program’s rigorous pace and communicate well with others in the cohort, especially during pair programming.
 
-**Resilience and work ethic**: Most students put in 60+ hours a week for the online program, and 80-100 hours a week for the in-person program. In the fit interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress.
+**Resilience and work ethic**: Most students put in 60+ hours a week for the online 24-week program, and 80-100 hours a week for the campus-hybrid 16-week program. In the fit interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress.
 
 **Enthusiasm**: Enrolling in App Academy is a huge commitment. We want to know WHY you want to become a software engineer and WHY App Academy is the best program to help you achieve your goals. 
 
 **Teamwork**: Much of a typical day at App Academy involves pair programming, and becoming a great software engineer requires the ability to collaborate, communicate, and problem solve with other people.
+
+**Openness to diversity**: App Academy is committed to cultivating an inclusive environment for students from all backgrounds. This includes students of all genders and sexual orientations, from different cultural, racial, ethnic, religious, educational, and professional backgrounds, spanning a wide range of ages. We want to see that you will contribute to a positive, respectful learning environment for all students, including students whose backgrounds differ greatly from your own.
  
  
 ## How to prepare
