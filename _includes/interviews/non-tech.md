@@ -20,7 +20,7 @@ The fit interview is an opportunity to learn more about you. We are looking for 
  
 ## How to prepare
 1. Practice your personal pitch. This is a 2-3 minute spiel about your educational and professional background, why you want to become a software engineer, and why App Academy is a good fit.
-2. Practice the example questions below and familiarize yourself with the confirmation questions. 
+2. Practice the example questions below. 
 3. Consider recording your personal pitch and reviewing the video, so that you can see what aspects of your presentation you might need to work on. Your body language is equally as important as your choice of words. 
 4. Consider asking friends or family to do a mock interview with you, using the example questions provided below, and give you feedback. 
  
