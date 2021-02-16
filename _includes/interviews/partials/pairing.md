@@ -1,6 +1,6 @@
 ### Pair Programming
 
-Students do a lot of collaborative work in our program, so we will do some pair programming with you in the interview to see how well you work with others. It's also good to try it out since it's something we do a lot of in our program.
+Students do a lot of pair programming in our program. For the final prompt technical prompt in the interview, you will pair with your interviewer. During the pairing portion of the interview, you will not be timed and you will not be evaluated by your ability to solve the pairing prompt. Instead, our technical reviewers looks for each candidate's ability to communicate effectively and observe the pairing roles.
 
 #### Driving and Navigating
 
@@ -33,6 +33,7 @@ The foundation of pair programming is communication. Both partners should always
 * [ ] Practice tracking every variable at throughout your code.
 * [ ] Walk through the [Am I Ready For My App Academy Technical Interview? Self-Assessment][tech-self-assessment] to determine whether you are ready to schedule your Technical Interview.
 * [ ] If you have the opportunity, practice pair-programming with someone who knows how to code.
+* [ ] Remember that for the pairing portion of the interview, your ability to communicate is far more important than your ability to solve the problem.
 * [ ] Review the [pairing video] [pairing-video].
 * [ ] If you do not have one of them already, download Chrome or Firefox.
 
