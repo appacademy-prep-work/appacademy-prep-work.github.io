@@ -1,7 +1,7 @@
-# Next Step: Fit Interview
+# Next Step: Non-Tech Interview
 
 ## Overview
-The fit interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via [Zoom][zoom], requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
+This interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via [Zoom][zoom], requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
  
  
 ## What We are Looking For
@@ -9,7 +9,7 @@ The fit interview is an opportunity to learn more about you. We are looking for 
 
 **Professional English language proficiency**: We want to ensure that our students have the English language proficiency needed to keep up with the program’s rigorous pace and communicate well with others in the cohort, especially during pair programming.
 
-**Resilience and work ethic**: Most students put in 60+ hours a week for the online 24-week program, and 80-100 hours a week for the campus-hybrid 16-week program. In the fit interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress.
+**Resilience and work ethic**: Most students put in 30=35 hours a week from the SWE Online Part-Time program, 60-80 hours a week for the SWE Online 24-week program, and 80-100 hours a week for the Campus-Hybrid 16-week program. In the interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress.
 
 **Enthusiasm**: Enrolling in App Academy is a huge commitment. We want to know WHY you want to become a software engineer and WHY App Academy is the best program to help you achieve your goals. 
 
@@ -23,6 +23,7 @@ The fit interview is an opportunity to learn more about you. We are looking for 
 2. Practice the example questions below. 
 3. Consider recording your personal pitch and reviewing the video, so that you can see what aspects of your presentation you might need to work on. Your body language is equally as important as your choice of words. 
 4. Consider asking friends or family to do a mock interview with you, using the example questions provided below, and give you feedback. 
+5. Explore the curriculum on [App Academy Open] [aao] to see how you like coding and App Academy's instructional style.
  
  
 ## Interview Tips
@@ -55,14 +56,17 @@ The fit interview is an opportunity to learn more about you. We are looking for 
 ## Example questions
 We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
 * What is your background and what are your career goals?
+* Beside the potential salary and flexibility, why do you want to become a software engineer?
+* What have you done to explore coding?
 * Why is App Academy the right fit for you?
 * How have you overcome communication issues when working on a team?
-* Have you ever taught yourself a new skill?
 * What obstacles have you overcome in your life? 
+* What experiences in your life have prepared you for App Academy?
 * What is an example that demonstrates your drive to succeed?
-* How have you worked with diverse groups of people? 
+* How do you think we can ensure that App Academy is an inclusive environment for students of all backgrounds?
  
  
 {% include interviews/partials/checklist.md %}
 
 [zoom]: https://www.zoom.us
+[aao]: https://open.appacademy.io/
