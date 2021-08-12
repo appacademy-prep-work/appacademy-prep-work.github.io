@@ -1,7 +1,7 @@
 # Next Step: Non-Tech Interview
 
 ## Overview
-This interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This interview is conducted via [Zoom][zoom], requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Read on to learn about how we evaluate interviews and how you can best prepare.
+This interview is an opportunity to learn more about you. We are looking for candidates who have the skills necessary to persist through the rigor of App Academy, positively contribute to their cohorts, and succeed in the job search. This 25-minute interview is conducted via [Zoom][zoom], requires a steady internet connection and functional webcam, and is recorded for evaluation and quality assurance purposes. Most interviews are conducted by recent App Academy graduates, who are in the process of finding their first full-time software engineering job. Read on to learn about how we evaluate interviews and how you can best prepare.
  
  
 ## What We are Looking For
@@ -9,7 +9,7 @@ This interview is an opportunity to learn more about you. We are looking for can
 
 **Professional English language proficiency**: We want to ensure that our students have the English language proficiency needed to keep up with the program’s rigorous pace and communicate well with others in the cohort, especially during pair programming.
 
-**Resilience and work ethic**: Most students put in 30=35 hours a week from the SWE Online Part-Time program, 60-80 hours a week for the SWE Online 24-week program, and 80-100 hours a week for the Campus-Hybrid 16-week program. In the interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress.
+**Resilience and work ethic**: Most students put in 27.5 hours a week from the SWE Online Part-Time program, 60-80 hours a week for the SWE Online 24-week program, and 80-100 hours a week for the Campus-Hybrid 16-week program. In the interview, we are looking for evidence that you are prepared for the rigor of the program and have developed strategies for managing your time and stress. Note:  For our Full-Time programs, you cannot work during the duration of the course or the job search.
 
 **Enthusiasm**: Enrolling in App Academy is a huge commitment. We want to know WHY you want to become a software engineer and WHY App Academy is the best program to help you achieve your goals. 
 
