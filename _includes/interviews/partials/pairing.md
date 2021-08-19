@@ -36,6 +36,8 @@ The foundation of pair programming is communication. Both partners should always
 * [ ] Remember that for the pairing portion of the interview, your ability to communicate is far more important than your ability to solve the problem.
 * [ ] Review the [pairing video] [pairing-video].
 * [ ] If you do not have one of them already, download Chrome or Firefox.
+* [ ] Look for an email with your interview link five minutes before your scheduled interview time. Be sure to check the email address that’s associated with your application.
+* [ ] Take a deep breath and know that your interviewer is excited to meet you.
 
 
 [pairing-video]: https://www.youtube.com/watch?v=ET3Q6zNK3Io
