@@ -16,6 +16,7 @@
 - [ ] Consider wearing professional clothing during the interview. This is not required, but it gives a strong first-impression that you are taking the interview seriously.
 - [ ] Check that the background of your video looks clean and that your face is well-lit in the frame.
 - [ ] Check the email you input on your application for a link at your scheduled interview time.
+- [ ] Look for an email with your interview link *five minutes* before your scheduled interview time. Be sure to check the email address that's associated with your application.
 - [ ] Take a deep breath and remember to smile. We are excited to get to know you better.
 
 [zoom]: https://www.zoom.us
