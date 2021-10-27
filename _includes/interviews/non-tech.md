@@ -20,6 +20,24 @@
 * ### What is a personal pitch? How should one be structured?
     * Your personal pitch is a 2-3 minute spiel about you and your background. It should provide your interviewer with insight into your educational and professional background, how you got introduced to code or Software engineering and why you have decided to pursue App Academy over any other bootcamp.
 
+
+&nbsp;
+&nbsp;
+
+
+| **What to do...** |**What not to do...**|
+| ----------------- | -------------------- |
+| Have a personal pitch prepared. | Leave the interviewer confused about why you are interested in App Academy and software engineering.|
+| Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.| Ramble or go on long tangents, mumble, slouch, avoid eye contact.|
+| Demonstrate your enthusiasm for programming, Software engineering and why App Academy is the right fit for you.| Give vague, generic answers that don’t speak to your specific experiences.|
+| Be mindful of filler words (um,like,so,and). It’s ok to take pauses as you formulate your thoughts.| Talk negatively about yourself or others.|
+| Be mindful of what’s in the view of your background and present yourself the way you would in a professional interview setting.|Take the interview in a dark room, your car, a cafe, or a chaotic environment. Vape, smoke, or eat.|
+|Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.| Overshare personal information. Frame your success in terms of being better than others.|
+
+&nbsp;
+&nbsp;
+
+
 ## How to prepare
 1. Practice your personal pitch. This is a 2-3 minute spiel about your educational and professional background, why you want to become a software engineer, and why App Academy is a good fit.
 2. Practice the example questions below.
