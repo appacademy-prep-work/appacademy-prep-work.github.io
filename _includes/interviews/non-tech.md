@@ -38,43 +38,9 @@
 &nbsp;
 
 
-## How to prepare
-1. Practice your personal pitch. This is a 2-3 minute spiel about your educational and professional background, why you want to become a software engineer, and why App Academy is a good fit.
-2. Practice the example questions below.
-3. Consider recording your personal pitch and reviewing the video, so that you can see what aspects of your presentation you might need to work on. Your body language is equally as important as your choice of words.
-4. Consider asking friends or family to do a mock interview with you, using the example questions provided below, and give you feedback.
-5. Explore the curriculum on [App Academy Open] [aao] to see how you like coding and App Academy's instructional style.
-
-
-## Interview Tips
-* Prepare for the interview using the provided materials.
-* Practice a short (<3 minutes) personal pitch. Cover the general trajectory of your education, career, and coding background.
-* Demonstrate your enthusiasm for software engineering.
-* Articulate why App Academy is the right fit for you.
-* Share specific, relevant answers to the questions presented.
-* Emphasize how your experiences have prepared you for the rigors of App Academy. We want to know what strategies you have developed to manage your time and stress.
-* Be mindful of filler words (um, like, so, and). It’s okay to take pauses as you are formulating thoughts.
-* Be mindful of what’s in view in the background of your video.
-* Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.
-* Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.
-* Remember that we want to see how you would present yourself in a professional interview setting.
-
-## What Not to Do
-* Leave the interviewer confused about why you are interested in App Academy and software engineering.
-* Ramble or go on long tangents.
-* Mumble, slouch, and avoid eye contact.
-* Give vague, generic answers that don’t speak to your specific experiences.
-* Overshare personal information.
-* Stare ahead stone-faced and unsmiling.
-* Talk negatively about yourself or others.
-* Frame your success in terms of being better than others.
-* Downplay your accomplishments.
-* Take the interview in a dark room, your car, a cafe, or a chaotic environment.
-* Vape, smoke, or eat.
-
-
-## Example questions
-We do not provide the interview questions ahead of time so that you can provide more organic, rather than memorized, responses. Here are the types of questions we will ask, but they are **not** the exact questions you will be given:
+# Example Questions
+We do not provide the exact interview questions ahead of time so that you can provide more organic, rather than memorized, responses. However, here are examples of the types of questions we will ask:
+&nbsp;
 * What is your background and what are your career goals?
 * Beside the potential salary and flexibility, why do you want to become a software engineer?
 * What have you done to explore coding?
@@ -84,6 +50,9 @@ We do not provide the interview questions ahead of time so that you can provide 
 * What experiences in your life have prepared you for App Academy?
 * What is an example that demonstrates your drive to succeed?
 * How do you think we can ensure that App Academy is an inclusive environment for students of all backgrounds?
+
+&nbsp;
+&nbsp;
 
 
 {% include interviews/partials/checklist.md %}
