@@ -1,12 +1,12 @@
 # Next Step: Non-Tech Interview
 
 * ### What to expect?
-    * A 30 minute interview conducted via [Zoom]. Requires a steady internet connection and functional webcam. Will be recorded for evaluation and quality assurance purposes. Come prepared to deliver your personal pitch and answer some interview questions. We want to hear all things you and how we can help you reach your goals!
+   * A 30 minute interview conducted via [Zoom]. Requires a steady internet connection and functional webcam. Will be recorded for evaluation and quality assurance purposes. Come prepared to deliver your personal pitch and answer some interview questions. We want to hear all things you and how we can help you reach your goals!
 
-* ### What We are Looking For
+* ### What are we looking for?
     * **Professionalism.**
     * **English language proficiency.**
-    * **Enthusiam and Positive energy.**
+    * **Enthusiasm and Positive energy.**
     * **Examples of your resilience and work ethic.**
     * **Examples of your ability to work on a team.**
     * **Examples of how your experiences have prepared you for the rigors of App Academy.**
@@ -19,7 +19,6 @@
 
 * ### What is a personal pitch? How should one be structured?
     * Your personal pitch is a 2-3 minute spiel about you and your background. It should provide your interviewer with insight into your educational and professional background, how you got introduced to code or Software engineering and why you have decided to pursue App Academy over any other bootcamp.
-
 
 ## How to prepare
 1. Practice your personal pitch. This is a 2-3 minute spiel about your educational and professional background, why you want to become a software engineer, and why App Academy is a good fit.
