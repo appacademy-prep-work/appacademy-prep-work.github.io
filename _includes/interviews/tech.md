@@ -1,7 +1,7 @@
 # Next Step: Technical Interview
 
 * ### What to expect?
-   * A 45 min interview through HackerRank  including two solos and one pairing. Each with a duration of 15 minutes.
+   * A 45 min interview through [HackerRank][hackerR]  including two solos and one pairing. Each with a duration of 15 minutes.
 
 * ### Can outside notes and resources be used?
     * The interview is closed-book (no notes or external websites). You may ask your interviewer questions related to syntax or your general approach to a problem.
@@ -53,6 +53,8 @@
 
 &nbsp;
 
+{% include interviews/partials/tech-checklist.md %}
+
 [ruby-tech-self-assessment]: https://docs.google.com/document/d/1wsm1tJ0AtfdL_xIZwd-ZqaUDQqXxv8AbTvoPzY13Eag/edit
 [js-tech-self-assessment]: https://docs.google.com/document/d/19KYhiz5AgAucLlcbJLx9c3u8yJu71ppbu7LqFF4jOCE/edit
 [python-tech-self-assessment]: https://docs.google.com/document/d/14_NcyuCSmQG-PPGPhiFVvsBh4dM6qHAvpIymptnILEQ/edit
@@ -62,11 +64,4 @@
 [js-learn]: https://open.appacademy.io/learn/full-stack-online/javascript/setting-up-a-development-environment--phase-3--
 [rb-learn]: https://open.appacademy.io/learn/full-stack-online/ruby/setting-up-a-development-environment--phase-1-
 [int-pro]: https://open.appacademy.io/learn/full-stack-online/intro-to-programming/welcome
-
-{% include interviews/partials/aao.md %}
-
-{% include interviews/partials/codepair.md %}
-
-{% include interviews/partials/codepair-swe.md %}
-
-{% include interviews/partials/pairing.md %}
+[hackerR]: https://www.hackerrank.com/domains/algorithms
