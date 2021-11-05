@@ -1,13 +1,13 @@
-## Fit  Interview Checklist
+# Fit  Interview Checklist
 
 ### In the days leading up to your interview
 
-* [ ] Download and test out video chat on [Zoom][zoom]. 
+* [ ] Download and test out video chat on [Zoom][zoom].
 * [ ] Practice a 2-3 minute pitch about your background, your career goals, and why App Academy is the best fit for you.
-* [ ] Practice the example interview questions and review the confirmation questions.
-* [ ] Look through the [FAQ][faq] and list out any further questions you may have. You can ask your interviewer when the time comes.
-* [ ] Take a photo or get a copy of your high school or college diploma (or equivalent) OR transcript. 
-*If you are accepted, you will be required to email this before you enroll.*
+* [ ] Practice the example interview questions.
+* [ ] Look through the [FAQs][faq] and list out any further questions you may have. You can ask your interviewer when the time comes.
+* [ ] Practice working with some code using resources like [App Academy Open][aao] to see how you like coding and App Academy's instructional style.
+
 
 
 ### The day of your interview:
@@ -15,8 +15,7 @@
 - [ ] Make sure that your webcam is functional and your internet connection is steady.
 - [ ] Consider wearing professional clothing during the interview. This is not required, but it gives a strong first-impression that you are taking the interview seriously.
 - [ ] Check that the background of your video looks clean and that your face is well-lit in the frame.
-- [ ] Check the email you input on your application for a link at your scheduled interview time.
-- [ ] Look for an email with your interview link *five minutes* before your scheduled interview time. Be sure to check the email address that's associated with your application.
+- [ ] Check the email you input on your application for a link to the zoom meeting at least **3 minutes** before your scheduled interview time.
 - [ ] Take a deep breath and remember to smile. We are excited to get to know you better.
 
 [zoom]: https://www.zoom.us
@@ -26,3 +25,4 @@
 [in-person-tuition]: https://s3-us-west-1.amazonaws.com/appacademy.io/Tuition+Plans.pdf
 [online-tuition]: https://appacademy.zendesk.com/hc/en-us/articles/360010568013-What-is-the-cost-of-the-Full-Time-Plan-What-payment-options-do-I-have-
 [faq]: https://appacademy.zendesk.com/hc/en-us
+[aao]: https://open.appacademy.io/learn/full-stack-online/intro-to-programming/map-by-name
