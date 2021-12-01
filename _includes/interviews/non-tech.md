@@ -1,7 +1,10 @@
-# Next Step: Non-Tech Interview
+# Next Step: Behavioral Interview
 
-* ### What to expect?
-   * A 30 minute interview conducted via [Zoom]. Requires a steady internet connection and functional webcam. Will be recorded for evaluation and quality assurance purposes. Come prepared to deliver your personal pitch and answer some interview questions. We want to hear all things you and how we can help you reach your goals!
+* ### Purpose of the Interview
+  App Academy is an intense, challenging bootcamp. Not every student thrives in this kind of environment. The goal of this interview is to gauge whether you are a good fit for App Academy -- and whether we are a good fit for you!
+  &nbsp;
+  &nbsp;
+  The interview will be similar to a job interview so that we can assess your professionalism, readiness for the rigor of the bootcamp, and overall preparedness for the job search.
 
 * ### What are we looking for?
     * **Professionalism.**
