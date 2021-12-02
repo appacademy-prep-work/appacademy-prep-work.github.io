@@ -1,47 +1,47 @@
 # Next Step: Behavioral Interview
 
-* ### Purpose of the Interview
+## Purpose of the Interview
   App Academy is an intense, challenging bootcamp. Not every student thrives in this kind of environment. The goal of this interview is to gauge whether you are a good fit for App Academy -- and whether we are a good fit for you!
-  &nbsp;
-  &nbsp;
+&nbsp;
   The interview will be similar to a job interview so that we can assess your professionalism, readiness for the rigor of the bootcamp, and overall preparedness for the job search.
 
-* ### What are we looking for?
-    * **Professionalism.**
-    * **English language proficiency.**
-    * **Enthusiasm and Positive energy.**
-    * **Examples of your resilience and work ethic.**
-    * **Examples of your ability to work on a team.**
-    * **Examples of how your experiences have prepared you for the rigors of App Academy.**
-    * **Examples of any time you have spent with code. What resources you have used to learn and/or your learning style.**
-    * **An openness to diversity.**
-
-* ### How much coding experience should I have?
-    * If you are applying to our 16 week program, you should have strong fundamentals in at least one programming language. A good gauge for when you are ready to apply is when you can confidently solve these [practice problems] on your own.
-    * If you are applying for our 24 week program we want to see that you have spent at least a few days playing around with code to ensure that you actually enjoy working with code and programming. You will have to demonstrate more than a love for technology. What draws you to Software Engineering specifically?
-
-* ### What is a personal pitch? How should one be structured?
-    * Your personal pitch is a 2-3 minute spiel about you and your background. It should provide your interviewer with insight into your educational and professional background, how you got introduced to code or Software engineering and why you have decided to pursue App Academy over any other bootcamp.
-
-
-&nbsp;
-&nbsp;
-
-
-| **What to do...** |**What not to do...**|
-| ----------------- | -------------------- |
-| Have a personal pitch prepared. | Leave the interviewer confused about why you are interested in App Academy and software engineering.|
-| Breathe, smile, sit up straight, and make eye contact. Your body language helps to convey your confidence and your enthusiasm.| Ramble or go on long tangents, mumble, slouch, avoid eye contact.|
-| Demonstrate your enthusiasm for programming, Software engineering and why App Academy is the right fit for you.| Give vague, generic answers that don’t speak to your specific experiences.|
-| Be mindful of filler words (um,like,so,and). It’s ok to take pauses as you formulate your thoughts.| Talk negatively about yourself or others.|
-| Be mindful of what’s in the view of your background and present yourself the way you would in a professional interview setting.|Take the interview in a dark room, your car, a cafe, or a chaotic environment. Vape, smoke, or eat.|
-|Focus on the positive. Don’t put yourself or others down. Reframe setbacks in your life as opportunities for growth.| Overshare personal information. Frame your success in terms of being better than others.|
+## What we are looking for
+App Academy has a selections team that reviews applicants and their interviews in order to determine their readiness for the bootcamp. Your entire application will be reviewed, and you will be assessed on a number of criteria:
+* **Professionalism**
+  * We are preparing you for the working world, so we need to see you can carry yourself professionally.
+* English language proficiency
+  * Your instructors will teach in English and your peers will speak English during the course. You need professional working English language proficiency to be successful.
+* Passion for coding
+  * This is a stressful bootcamp, and a passion for coding will greatly improve your ability to handle the intensity of our bootcamp.
+* Understanding of software engineering
+  * This is not a “get rich quick” scheme: we are not going to hand you a job after graduation. You need to understand what you are getting yourself into and make sure this is the career path you want.
+* Enthusiasm and positive energy
+  * We want to hear about why you are excited about coding, potentially attending App Academy, and becoming a software engineer. We also want to see that you can speak positively about yourself and your experiences, as these are qualities that employers are looking for.
+* Resiliency and work ethic
+  * Time management, stress management, and a strong drive are necessary to thrive in the program
+* Ability to work well on a team
+  * Approximately half of your day will be spent pair-programming, so you will need to be able to work well with your partners to succeed.
+* Openness to diversity
+  * App Academy has students from a diverse set of backgrounds. One of our core values is creating a positive, inclusive environment for all students, particularly those from backgrounds historically underrepresented in the tech field. We expect all students to treat each other with empathy and respect.
 
 &nbsp;
+## How the interview works
+Your Admissions Specialist will provide you with the link to schedule your interview through YouCanBook.Me (a scheduling platform).
 &nbsp;
+On the day of your interview, no less than 3 minutes before the start time, you will receive an email from one of our interviewers with the link to join them in a Zoom meeting.
+&nbsp;
+The interview will be approximately 30 minutes long and will be conducted via Zoom. To complete the interview, you will need the following:
+  * Zoom account
+  * Steady internet connection
+  * Microphone
+  * Webcam
+&nbsp;
+Once you join the interview, the interviewer will introduce themselves and then ask you questions. Afterwards, you will get a chance to ask the interviewer any questions you might have.
+&nbsp;
+Our interviewers are recent App Academy graduates, many of whom work part-time during their job search..Your interviewer is a great person to ask about the App Academy experience!
 
-
-# Example Questions
+&nbsp;
+## Example Questions
 We do not provide the exact interview questions ahead of time so that you can provide more organic, rather than memorized, responses. However, here are examples of the types of questions we will ask:
 &nbsp;
 * What is your background and what are your career goals?
@@ -53,6 +53,29 @@ We do not provide the exact interview questions ahead of time so that you can pr
 * What experiences in your life have prepared you for App Academy?
 * What is an example that demonstrates your drive to succeed?
 * How do you think we can ensure that App Academy is an inclusive environment for students of all backgrounds?
+
+&nbsp;
+# Interview Tips
+
+## Do
+- Have a personal pitch prepared that addresses:
+    * your education background
+    * your career history
+    * why you are interested in Software Engineering
+    * why you want to attend App Academy
+- Breathe, smile, sit up straight, and make eye contact.
+- Be mindful of filler words (um, like, so, and). It’s ok to take pauses as you formulate your thoughts.
+- Be mindful of what’s in the view of your background and present yourself the way you would in a professional interview setting.
+- Focus on the positive.
+- Reframe setbacks in your life as opportunities for growth.
+
+## Do NOT
+- Leave the interviewer confused about why you are interested in App Academy and software engineering.
+- Ramble or go on long tangents, mumble, slouch, avoid eye contact.
+- Give vague, generic answers that don’t speak to your specific experiences.
+- Take the interview in a dark room, your car, a cafe, or a chaotic environment.
+- Talk negatively about yourself or others.
+- Frame your success in terms of being better than others.
 
 &nbsp;
 &nbsp;
