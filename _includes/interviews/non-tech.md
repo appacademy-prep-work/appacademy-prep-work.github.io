@@ -1,9 +1,9 @@
 # Next Step: Behavioral Interview
 
 ## Purpose of the Interview
-  App Academy is an intense, challenging bootcamp. Not every student thrives in this kind of environment. The goal of this interview is to gauge whether you are a good fit for App Academy -- and whether we are a good fit for you!
-&nbsp;
-  The interview will be similar to a job interview so that we can assess your professionalism, readiness for the rigor of the bootcamp, and overall preparedness for the job search.
+App Academy is an intense, challenging bootcamp. Not every student thrives in this kind of environment. The goal of this interview is to gauge whether you are a good fit for App Academy -- and whether we are a good fit for you!
+
+The interview will be similar to a job interview so that we can assess your professionalism, readiness for the rigor of the bootcamp, and overall preparedness for the job search.
 
 ## What we are looking for
 App Academy has a selections team that reviews applicants and their interviews in order to determine their readiness for the bootcamp. Your entire application will be reviewed, and you will be assessed on a number of criteria:
@@ -35,9 +35,9 @@ The interview will be approximately 30 minutes long and will be conducted via Zo
   * Steady internet connection
   * Microphone
   * Webcam
-&nbsp;
+
 Once you join the interview, the interviewer will introduce themselves and then ask you questions. Afterwards, you will get a chance to ask the interviewer any questions you might have.
-&nbsp;
+
 Our interviewers are recent App Academy graduates, many of whom work part-time during their job search..Your interviewer is a great person to ask about the App Academy experience!
 
 &nbsp;
@@ -57,7 +57,7 @@ We do not provide the exact interview questions ahead of time so that you can pr
 &nbsp;
 # Interview Tips
 
-## Do
+## **Do**
 - Have a personal pitch prepared that addresses:
     * your education background
     * your career history
@@ -69,7 +69,7 @@ We do not provide the exact interview questions ahead of time so that you can pr
 - Focus on the positive.
 - Reframe setbacks in your life as opportunities for growth.
 
-## Do NOT
+## **Do NOT**
 - Leave the interviewer confused about why you are interested in App Academy and software engineering.
 - Ramble or go on long tangents, mumble, slouch, avoid eye contact.
 - Give vague, generic answers that don’t speak to your specific experiences.
