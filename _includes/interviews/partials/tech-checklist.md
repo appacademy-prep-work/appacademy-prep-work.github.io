@@ -5,7 +5,7 @@
 - [ ] Practice debugging. You will probably run into bugs during the interview and your ability to diagnose and fix them on the fly says a lot about your coding ability.
 - [ ] Practice tracking every variable throughout your code with an example input.
 - [ ] Practice pair programming. Remember that during the pairing portion of the interview, your ability to communicate is far more important than your ability to solve the problem.
-- [ ] Walk through **Am I Ready? Self assessment** before scheduling your interview.
+- [ ] Complete the **[Self assessment][self-assessment]** before scheduling your interview.
 - [ ] If you do not have one of them already, download Chrome or Firefox for optimal connection to [HackerRank][hackerR] platform.
 - [ ] Schedule a mock interview! Reach out to admissions specialist for details.
 
@@ -20,3 +20,4 @@
 
 
 [hackerR]: https://www.hackerrank.com/domains/algorithms
+[self-assessment]: https://docs.google.com/document/d/1EeYVocf37gAkQIq2IskvqdoDAQZ5lIe0ZleZREjqG0Y/edit?usp=sharing

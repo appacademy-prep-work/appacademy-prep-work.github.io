@@ -5,9 +5,24 @@ App Academy is an intense, challenging bootcamp. Not every student thrives in th
 
 The interview will be similar to a job interview so that we can assess your professionalism, readiness for the rigor of the bootcamp, and overall preparedness for the job search.
 
+## How the interview works
+Your Admissions Specialist will provide you with the link to schedule your interview through YouCanBook.Me (a scheduling platform).
+&nbsp;
+On the day of your interview, no less than 3 minutes before the start time, you will receive an email from one of our interviewers with the link to join them in a Zoom meeting.
+&nbsp;
+The interview will be approximately 30 minutes long and will be conducted via Zoom. To complete the interview, you will need the following:
+  * Zoom account
+  * Steady internet connection
+  * Microphone
+  * Webcam
+
+Once you join the interview, the interviewer will introduce themselves and then ask you questions. Afterwards, you will get a chance to ask the interviewer any questions you might have.
+
+Our interviewers are recent App Academy graduates, many of whom work part-time during their job search..Your interviewer is a great person to ask about the App Academy experience!
+
 ## What we are looking for
 App Academy has a selections team that reviews applicants and their interviews in order to determine their readiness for the bootcamp. Your entire application will be reviewed, and you will be assessed on a number of criteria:
-* **Professionalism**
+* Professionalism
   * We are preparing you for the working world, so we need to see you can carry yourself professionally.
 * English language proficiency
   * Your instructors will teach in English and your peers will speak English during the course. You need professional working English language proficiency to be successful.
@@ -24,35 +39,13 @@ App Academy has a selections team that reviews applicants and their interviews i
 * Openness to diversity
   * App Academy has students from a diverse set of backgrounds. One of our core values is creating a positive, inclusive environment for all students, particularly those from backgrounds historically underrepresented in the tech field. We expect all students to treat each other with empathy and respect.
 
-&nbsp;
-## How the interview works
-Your Admissions Specialist will provide you with the link to schedule your interview through YouCanBook.Me (a scheduling platform).
-&nbsp;
-On the day of your interview, no less than 3 minutes before the start time, you will receive an email from one of our interviewers with the link to join them in a Zoom meeting.
-&nbsp;
-The interview will be approximately 30 minutes long and will be conducted via Zoom. To complete the interview, you will need the following:
-  * Zoom account
-  * Steady internet connection
-  * Microphone
-  * Webcam
+## How to Prepare
 
-Once you join the interview, the interviewer will introduce themselves and then ask you questions. Afterwards, you will get a chance to ask the interviewer any questions you might have.
-
-Our interviewers are recent App Academy graduates, many of whom work part-time during their job search..Your interviewer is a great person to ask about the App Academy experience!
-
-&nbsp;
-## Example Questions
-We do not provide the exact interview questions ahead of time so that you can provide more organic, rather than memorized, responses. However, here are examples of the types of questions we will ask:
-&nbsp;
-* What is your background and what are your career goals?
-* Beside the potential salary and flexibility, why do you want to become a software engineer?
-* What have you done to explore coding?
-* Why is App Academy the right fit for you?
-* How have you overcome communication issues when working on a team?
-* What obstacles have you overcome in your life?
-* What experiences in your life have prepared you for App Academy?
-* What is an example that demonstrates your drive to succeed?
-* How do you think we can ensure that App Academy is an inclusive environment for students of all backgrounds?
+* [ ] Download and test out video chat on [Zoom][zoom].
+* [ ] Practice a 2-3 minute pitch about your background, your career goals, and why App Academy is the best fit for you.
+* [ ] Practice the example interview questions.
+* [ ] Look through the [FAQs][faq] and list out any further questions you may have. You can ask your interviewer when the time comes.
+* [ ] Practice working with some code using resources like [App Academy Open][aao] to see how you like coding and App Academy's instructional style.
 
 &nbsp;
 # Interview Tips
@@ -76,6 +69,19 @@ We do not provide the exact interview questions ahead of time so that you can pr
 - Take the interview in a dark room, your car, a cafe, or a chaotic environment.
 - Talk negatively about yourself or others.
 - Frame your success in terms of being better than others.
+
+## Example Questions
+We do not provide the exact interview questions ahead of time so that you can provide more organic, rather than memorized, responses. However, here are examples of the types of questions we will ask:
+&nbsp;
+* What is your background and what are your career goals?
+* Beside the potential salary and flexibility, why do you want to become a software engineer?
+* What have you done to explore coding?
+* Why is App Academy the right fit for you?
+* How have you overcome communication issues when working on a team?
+* What obstacles have you overcome in your life?
+* What experiences in your life have prepared you for App Academy?
+* What is an example that demonstrates your drive to succeed?
+* How do you think we can ensure that App Academy is an inclusive environment for students of all backgrounds?
 
 &nbsp;
 &nbsp;

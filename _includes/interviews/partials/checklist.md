@@ -1,15 +1,4 @@
 # Fit  Interview Checklist
-
-### In the days leading up to your interview
-
-* [ ] Download and test out video chat on [Zoom][zoom].
-* [ ] Practice a 2-3 minute pitch about your background, your career goals, and why App Academy is the best fit for you.
-* [ ] Practice the example interview questions.
-* [ ] Look through the [FAQs][faq] and list out any further questions you may have. You can ask your interviewer when the time comes.
-* [ ] Practice working with some code using resources like [App Academy Open][aao] to see how you like coding and App Academy's instructional style.
-
-
-
 ### The day of your interview:
 
 - [ ] Make sure that your webcam is functional and your internet connection is steady.
