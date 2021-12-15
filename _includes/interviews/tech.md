@@ -63,6 +63,7 @@ Study Intro to Ruby Programming I and II on [App Academy Open][rb-learn].
 Study JavaScript Fundamentals through [App Academy Open][js-learn].
 
 Assess your technical readiness with this [Self Assesment][self-assessment].
+
 &nbsp;
 {% include interviews/partials/tech-checklist.md %}
 
