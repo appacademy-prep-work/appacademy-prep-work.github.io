@@ -32,7 +32,7 @@ On the day of your interview, no less than three minutes before the start time, 
 
 CodePair is a browser-based pairing platform that we will use to conduct the interview. It is located on the [HackerRank][hackerR] website. To get into the interview, you will simply open the link from your interviewer in a web browser (preferably Google Chrome or FireFox). You will need a steady internet connection and a working microphone and webcam for the interview.
 
-Once you open the link, you will be taken into a pairing room. Your interviewer will give you instructions to read over, and then you will start the interview.
+Once you open the link, your interviewer will give you instructions to read over, and then you will start the interview.
 &nbsp;
 ## Solo Prompts
 The first two problems you work on will be solo prompts. These are problems that you solve on your own in front of the interviewer - the interviewer will take notes on how you solve them.
